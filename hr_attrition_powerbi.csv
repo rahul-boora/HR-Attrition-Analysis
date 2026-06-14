@@ -1,0 +1,1471 @@
+Age,Department,JobRole,OverTime,MonthlyIncome,YearsAtCompany,MaritalStatus,JobSatisfaction,Attrition,AttritionRiskScore,RiskBand,EmployeeID,IncomeBand,DeptShort,TenureBucket
+36,Sales,Manager,No,3051,2,Married,2,0,0.173,Low,EMP1000,3-6K,Sales,2-3y
+49,Research & Development,Research Director,No,8442,10,Divorced,1,0,0.048,Low,EMP1001,6-10K,R&D,6-10y
+53,Sales,Manager,No,3174,2,Single,1,0,0.183,Low,EMP1002,3-6K,Sales,2-3y
+41,Sales,Sales Executive,Yes,4817,9,Divorced,1,1,0.285,Low,EMP1003,3-6K,Sales,6-10y
+33,Research & Development,Research Director,Yes,4617,3,Married,1,0,0.456,Medium,EMP1004,3-6K,R&D,2-3y
+59,Human Resources,Human Resources,No,6614,0,Divorced,2,0,0.027,Low,EMP1005,6-10K,HR,0-1y
+33,Sales,Sales Representative,No,1693,10,Single,1,0,0.463,Medium,EMP1006,<3K,Sales,6-10y
+31,Sales,Sales Representative,No,8866,3,Single,1,1,0.492,Medium,EMP1007,6-10K,Sales,2-3y
+21,Research & Development,Manufacturing Director,No,3743,0,Married,2,0,0.212,Low,EMP1008,3-6K,R&D,0-1y
+49,Research & Development,Manufacturing Director,No,10625,10,Single,3,0,0.058,Low,EMP1009,10K+,R&D,6-10y
+45,Research & Development,Laboratory Technician,Yes,4175,7,Divorced,3,0,0.323,Medium,EMP1010,3-6K,R&D,6-10y
+58,Sales,Sales Representative,Yes,5287,1,Married,1,1,0.45,Medium,EMP1011,3-6K,Sales,0-1y
+24,Research & Development,Research Director,No,15561,2,Single,4,0,0.071,Low,EMP1012,10K+,R&D,2-3y
+50,Sales,Sales Representative,No,4663,12,Single,3,0,0.134,Low,EMP1013,3-6K,Sales,10y+
+37,Research & Development,Research Scientist,No,10736,2,Divorced,2,0,0.092,Low,EMP1014,10K+,R&D,2-3y
+44,Research & Development,Research Director,No,5549,4,Married,2,0,0.043,Low,EMP1015,3-6K,R&D,4-5y
+22,Research & Development,Laboratory Technician,No,6825,7,Divorced,4,0,0.177,Low,EMP1016,6-10K,R&D,6-10y
+50,Research & Development,Manufacturing Director,No,5644,2,Single,2,0,0.198,Low,EMP1017,3-6K,R&D,2-3y
+44,Sales,Sales Representative,Yes,8658,9,Divorced,1,0,0.452,Medium,EMP1018,6-10K,Sales,6-10y
+36,Research & Development,Manufacturing Director,No,3725,6,Married,2,0,0.117,Low,EMP1019,3-6K,R&D,6-10y
+42,Sales,Manager,Yes,3161,4,Married,1,0,0.305,Medium,EMP1020,3-6K,Sales,4-5y
+30,Research & Development,Manufacturing Director,No,3822,3,Married,1,0,0.223,Low,EMP1021,3-6K,R&D,2-3y
+31,Human Resources,Manager,Yes,5737,9,Single,2,1,0.466,Medium,EMP1022,3-6K,HR,6-10y
+32,Sales,Sales Executive,Yes,4810,6,Divorced,1,0,0.425,Medium,EMP1023,3-6K,Sales,6-10y
+20,Sales,Manager,No,8027,3,Divorced,2,1,0.259,Low,EMP1024,6-10K,Sales,2-3y
+44,Research & Development,Manufacturing Director,No,11132,2,Married,1,1,0.066,Low,EMP1025,10K+,R&D,2-3y
+47,Research & Development,Research Scientist,No,3175,2,Divorced,3,0,0.01,Low,EMP1026,3-6K,R&D,2-3y
+30,Research & Development,Research Scientist,Yes,3627,4,Single,1,1,0.632,High,EMP1027,3-6K,R&D,4-5y
+40,Research & Development,Healthcare Representative,No,2465,0,Single,1,0,0.313,Medium,EMP1028,<3K,R&D,0-1y
+34,Sales,Sales Representative,No,16592,0,Single,4,0,0.239,Low,EMP1029,10K+,Sales,0-1y
+39,Sales,Sales Representative,No,6422,13,Married,1,0,0.108,Low,EMP1030,6-10K,Sales,10y+
+31,Human Resources,Human Resources,Yes,7071,7,Single,2,0,0.421,Medium,EMP1031,6-10K,HR,6-10y
+29,Research & Development,Manufacturing Director,No,2599,7,Married,3,0,0.114,Low,EMP1032,<3K,R&D,6-10y
+46,Research & Development,Research Director,No,5428,3,Single,2,0,0.111,Low,EMP1033,3-6K,R&D,2-3y
+36,Research & Development,Laboratory Technician,No,7187,1,Married,2,0,0.23,Low,EMP1034,6-10K,R&D,0-1y
+55,Research & Development,Manufacturing Director,No,4726,4,Divorced,1,0,0.073,Low,EMP1035,3-6K,R&D,4-5y
+37,Research & Development,Manufacturing Director,Yes,9814,0,Married,2,0,0.322,Medium,EMP1036,6-10K,R&D,0-1y
+28,Research & Development,Research Director,No,19370,3,Single,4,0,0.073,Low,EMP1037,10K+,R&D,2-3y
+48,Research & Development,Research Scientist,Yes,3226,0,Married,3,0,0.318,Medium,EMP1038,3-6K,R&D,0-1y
+42,Sales,Sales Representative,No,3095,2,Single,4,1,0.32,Medium,EMP1039,3-6K,Sales,2-3y
+43,Research & Development,Healthcare Representative,Yes,3351,21,Married,3,0,0.121,Low,EMP1040,3-6K,R&D,10y+
+47,Sales,Sales Executive,Yes,13139,1,Married,4,0,0.173,Low,EMP1041,10K+,Sales,0-1y
+31,Sales,Manager,No,9636,5,Married,2,0,0.109,Low,EMP1042,6-10K,Sales,4-5y
+35,Research & Development,Research Director,No,5041,2,Single,3,0,0.162,Low,EMP1043,3-6K,R&D,2-3y
+35,Sales,Manager,No,5541,0,Divorced,3,0,0.11,Low,EMP1044,3-6K,Sales,0-1y
+25,Sales,Sales Representative,No,3466,0,Divorced,4,0,0.329,Medium,EMP1045,3-6K,Sales,0-1y
+34,Research & Development,Healthcare Representative,No,8861,0,Married,3,0,0.205,Low,EMP1046,6-10K,R&D,0-1y
+49,Research & Development,Healthcare Representative,No,4407,1,Divorced,2,0,0.055,Low,EMP1047,3-6K,R&D,0-1y
+39,Sales,Manager,No,4707,2,Divorced,1,0,0.137,Low,EMP1048,3-6K,Sales,2-3y
+24,Research & Development,Manufacturing Director,No,7591,1,Single,4,0,0.228,Low,EMP1049,6-10K,R&D,0-1y
+22,Research & Development,Manufacturing Director,No,4898,3,Married,2,0,0.187,Low,EMP1050,3-6K,R&D,2-3y
+51,Research & Development,Healthcare Representative,No,4773,7,Married,4,0,0.101,Low,EMP1051,3-6K,R&D,6-10y
+36,Sales,Sales Executive,No,5463,0,Married,3,1,0.123,Low,EMP1052,3-6K,Sales,0-1y
+31,Sales,Manager,Yes,8412,0,Single,1,0,0.652,High,EMP1053,6-10K,Sales,0-1y
+34,Sales,Manager,No,13434,14,Divorced,3,0,0.082,Low,EMP1054,10K+,Sales,10y+
+23,Sales,Sales Representative,No,7495,6,Married,2,1,0.364,Medium,EMP1055,6-10K,Sales,6-10y
+49,Research & Development,Research Scientist,No,8449,0,Single,1,0,0.231,Low,EMP1056,6-10K,R&D,0-1y
+33,Research & Development,Research Scientist,No,4866,0,Married,2,0,0.169,Low,EMP1057,3-6K,R&D,0-1y
+49,Research & Development,Manufacturing Director,Yes,3680,9,Married,3,1,0.179,Low,EMP1058,3-6K,R&D,6-10y
+37,Research & Development,Healthcare Representative,No,7782,11,Married,1,0,0.088,Low,EMP1059,6-10K,R&D,10y+
+49,Sales,Manager,Yes,5968,3,Divorced,3,0,0.232,Low,EMP1060,3-6K,Sales,2-3y
+39,Research & Development,Healthcare Representative,No,2483,3,Married,4,0,0.072,Low,EMP1061,<3K,R&D,2-3y
+44,Research & Development,Research Director,No,4534,0,Married,1,0,0.188,Low,EMP1062,3-6K,R&D,0-1y
+43,Sales,Manager,No,5189,3,Married,1,0,0.136,Low,EMP1063,3-6K,Sales,2-3y
+42,Research & Development,Healthcare Representative,No,4102,4,Married,1,1,0.129,Low,EMP1064,3-6K,R&D,4-5y
+40,Research & Development,Research Scientist,No,12270,13,Married,3,0,0.01,Low,EMP1065,10K+,R&D,10y+
+34,Research & Development,Manufacturing Director,No,7072,0,Single,4,0,0.187,Low,EMP1066,6-10K,R&D,0-1y
+54,Research & Development,Manufacturing Director,No,11559,2,Single,4,0,0.01,Low,EMP1067,10K+,R&D,2-3y
+28,Research & Development,Healthcare Representative,No,6278,3,Married,1,0,0.159,Low,EMP1068,6-10K,R&D,2-3y
+37,Research & Development,Research Director,No,5680,0,Divorced,2,0,0.128,Low,EMP1069,3-6K,R&D,0-1y
+37,Research & Development,Research Scientist,Yes,3245,7,Married,1,0,0.379,Medium,EMP1070,3-6K,R&D,6-10y
+40,Research & Development,Manufacturing Director,No,5467,1,Single,2,0,0.287,Low,EMP1071,3-6K,R&D,0-1y
+33,Sales,Sales Executive,Yes,5470,1,Married,2,0,0.457,Medium,EMP1072,3-6K,Sales,0-1y
+39,Research & Development,Healthcare Representative,No,2560,7,Divorced,3,0,0.156,Low,EMP1073,<3K,R&D,6-10y
+35,Research & Development,Manufacturing Director,No,4037,0,Married,4,0,0.155,Low,EMP1074,3-6K,R&D,0-1y
+22,Research & Development,Manufacturing Director,No,4546,3,Single,4,0,0.289,Low,EMP1075,3-6K,R&D,2-3y
+37,Research & Development,Manufacturing Director,Yes,6818,1,Married,1,0,0.497,Medium,EMP1076,6-10K,R&D,0-1y
+27,Sales,Sales Executive,No,7000,2,Married,1,0,0.163,Low,EMP1077,6-10K,Sales,2-3y
+21,Research & Development,Manufacturing Director,No,3945,3,Married,2,1,0.183,Low,EMP1078,3-6K,R&D,2-3y
+38,Sales,Manager,Yes,7029,6,Single,2,1,0.455,Medium,EMP1079,6-10K,Sales,6-10y
+41,Sales,Sales Representative,Yes,4914,4,Single,2,0,0.756,High,EMP1080,3-6K,Sales,4-5y
+41,Research & Development,Laboratory Technician,No,1120,5,Married,3,0,0.178,Low,EMP1081,<3K,R&D,4-5y
+42,Sales,Sales Representative,No,4160,4,Married,3,0,0.189,Low,EMP1082,3-6K,Sales,4-5y
+19,Research & Development,Laboratory Technician,Yes,9832,3,Married,4,0,0.491,Medium,EMP1083,6-10K,R&D,2-3y
+24,Research & Development,Research Scientist,No,2153,9,Single,3,1,0.28,Low,EMP1084,<3K,R&D,6-10y
+54,Research & Development,Healthcare Representative,No,5778,0,Married,2,1,0.05,Low,EMP1085,3-6K,R&D,0-1y
+27,Sales,Sales Executive,No,12989,5,Married,1,0,0.15,Low,EMP1086,10K+,Sales,4-5y
+42,Research & Development,Healthcare Representative,No,3574,3,Single,2,0,0.217,Low,EMP1087,3-6K,R&D,2-3y
+30,Research & Development,Research Scientist,No,5438,1,Married,4,0,0.068,Low,EMP1088,3-6K,R&D,0-1y
+37,Research & Development,Research Director,No,2651,13,Married,4,0,0.033,Low,EMP1089,<3K,R&D,10y+
+31,Research & Development,Healthcare Representative,Yes,13292,9,Married,2,0,0.191,Low,EMP1090,10K+,R&D,6-10y
+42,Sales,Sales Executive,No,5188,9,Divorced,1,0,0.117,Low,EMP1091,3-6K,Sales,6-10y
+38,Research & Development,Manufacturing Director,Yes,5572,2,Divorced,1,1,0.399,Medium,EMP1092,3-6K,R&D,2-3y
+32,Research & Development,Laboratory Technician,Yes,11439,4,Single,1,1,0.675,High,EMP1093,10K+,R&D,4-5y
+27,Research & Development,Laboratory Technician,No,7815,6,Single,3,0,0.215,Low,EMP1094,6-10K,R&D,6-10y
+39,Research & Development,Research Director,No,3355,3,Single,3,0,0.28,Low,EMP1095,3-6K,R&D,2-3y
+26,Research & Development,Research Director,No,3804,5,Single,3,0,0.237,Low,EMP1096,3-6K,R&D,4-5y
+40,Research & Development,Laboratory Technician,No,7131,4,Married,1,0,0.204,Low,EMP1097,6-10K,R&D,4-5y
+60,Research & Development,Research Scientist,No,3853,2,Divorced,2,0,0.058,Low,EMP1098,3-6K,R&D,2-3y
+49,Human Resources,Human Resources,No,1695,2,Divorced,1,1,0.108,Low,EMP1099,<3K,HR,2-3y
+43,Sales,Sales Representative,No,5274,2,Single,2,0,0.441,Medium,EMP1100,3-6K,Sales,2-3y
+36,Sales,Sales Executive,No,2406,0,Married,3,0,0.08,Low,EMP1101,<3K,Sales,0-1y
+19,Research & Development,Research Scientist,No,13212,8,Single,2,0,0.19,Low,EMP1102,10K+,R&D,6-10y
+25,Human Resources,Manager,No,5986,14,Married,3,0,0.035,Low,EMP1103,3-6K,HR,10y+
+48,Sales,Sales Executive,No,3301,3,Single,2,0,0.153,Low,EMP1104,3-6K,Sales,2-3y
+29,Sales,Manager,No,3698,3,Divorced,3,0,0.126,Low,EMP1105,3-6K,Sales,2-3y
+30,Research & Development,Healthcare Representative,Yes,1921,25,Divorced,2,0,0.119,Low,EMP1106,<3K,R&D,10y+
+35,Research & Development,Healthcare Representative,No,2966,9,Single,2,0,0.178,Low,EMP1107,<3K,R&D,6-10y
+27,Research & Development,Laboratory Technician,Yes,9499,7,Married,1,1,0.412,Medium,EMP1108,6-10K,R&D,6-10y
+25,Sales,Manager,No,18536,1,Married,3,0,0.082,Low,EMP1109,10K+,Sales,0-1y
+36,Research & Development,Research Director,No,8099,7,Divorced,4,0,0.069,Low,EMP1110,6-10K,R&D,6-10y
+28,Research & Development,Laboratory Technician,Yes,5163,0,Married,3,1,0.572,Medium,EMP1111,3-6K,R&D,0-1y
+30,Research & Development,Healthcare Representative,No,4283,1,Single,3,0,0.315,Medium,EMP1112,3-6K,R&D,0-1y
+29,Research & Development,Research Scientist,No,3209,3,Married,4,0,0.111,Low,EMP1113,3-6K,R&D,2-3y
+41,Research & Development,Healthcare Representative,No,16862,1,Single,1,0,0.129,Low,EMP1114,10K+,R&D,0-1y
+34,Sales,Sales Representative,Yes,4896,2,Married,4,0,0.551,Medium,EMP1115,3-6K,Sales,2-3y
+35,Sales,Manager,Yes,17389,2,Single,1,0,0.41,Medium,EMP1116,10K+,Sales,2-3y
+42,Sales,Sales Executive,No,11689,5,Married,3,0,0.119,Low,EMP1117,10K+,Sales,4-5y
+35,Research & Development,Research Scientist,Yes,2085,2,Divorced,4,0,0.454,Medium,EMP1118,<3K,R&D,2-3y
+34,Research & Development,Research Scientist,Yes,3765,2,Single,4,1,0.533,Medium,EMP1119,3-6K,R&D,2-3y
+41,Research & Development,Research Scientist,No,3759,11,Married,2,0,0.125,Low,EMP1120,3-6K,R&D,10y+
+43,Research & Development,Research Scientist,Yes,5198,9,Married,4,0,0.242,Low,EMP1121,3-6K,R&D,6-10y
+35,Research & Development,Research Scientist,Yes,5254,0,Single,3,0,0.573,Medium,EMP1122,3-6K,R&D,0-1y
+37,Research & Development,Laboratory Technician,No,19999,1,Married,1,0,0.191,Low,EMP1123,10K+,R&D,0-1y
+29,Research & Development,Healthcare Representative,No,3003,10,Married,1,0,0.173,Low,EMP1124,3-6K,R&D,6-10y
+29,Research & Development,Manufacturing Director,No,6160,0,Married,4,0,0.144,Low,EMP1125,6-10K,R&D,0-1y
+43,Research & Development,Research Director,No,7624,1,Divorced,4,0,0.098,Low,EMP1126,6-10K,R&D,0-1y
+41,Research & Development,Healthcare Representative,No,5426,4,Married,4,0,0.011,Low,EMP1127,3-6K,R&D,4-5y
+41,Research & Development,Laboratory Technician,Yes,5770,4,Married,2,1,0.457,Medium,EMP1128,3-6K,R&D,4-5y
+39,Research & Development,Laboratory Technician,No,3057,3,Single,2,0,0.267,Low,EMP1129,3-6K,R&D,2-3y
+37,Research & Development,Manufacturing Director,No,5759,2,Single,4,1,0.097,Low,EMP1130,3-6K,R&D,2-3y
+43,Sales,Sales Representative,No,7195,5,Single,1,0,0.337,Medium,EMP1131,6-10K,Sales,4-5y
+45,Research & Development,Research Scientist,No,6504,6,Divorced,4,0,0.021,Low,EMP1132,6-10K,R&D,6-10y
+45,Research & Development,Healthcare Representative,No,7432,8,Divorced,3,0,0.064,Low,EMP1133,6-10K,R&D,6-10y
+36,Research & Development,Manufacturing Director,Yes,11812,3,Divorced,3,1,0.25,Low,EMP1134,10K+,R&D,2-3y
+49,Research & Development,Healthcare Representative,Yes,9093,0,Single,2,0,0.412,Medium,EMP1135,6-10K,R&D,0-1y
+39,Human Resources,Human Resources,Yes,5648,4,Married,4,0,0.211,Low,EMP1136,3-6K,HR,4-5y
+42,Research & Development,Research Director,No,2851,6,Divorced,3,0,0.13,Low,EMP1137,<3K,R&D,6-10y
+39,Sales,Sales Executive,No,3904,17,Married,1,0,0.068,Low,EMP1138,3-6K,Sales,10y+
+39,Research & Development,Manufacturing Director,No,4813,3,Single,3,0,0.192,Low,EMP1139,3-6K,R&D,2-3y
+30,Research & Development,Manufacturing Director,Yes,6240,2,Divorced,4,1,0.289,Low,EMP1140,6-10K,R&D,2-3y
+43,Research & Development,Research Director,No,4175,11,Single,1,0,0.131,Low,EMP1141,3-6K,R&D,10y+
+60,Sales,Sales Executive,No,3246,0,Single,3,0,0.168,Low,EMP1142,3-6K,Sales,0-1y
+33,Research & Development,Research Scientist,Yes,2825,2,Divorced,1,1,0.551,Medium,EMP1143,<3K,R&D,2-3y
+37,Research & Development,Research Scientist,Yes,2190,4,Married,3,0,0.314,Medium,EMP1144,<3K,R&D,4-5y
+32,Research & Development,Research Scientist,Yes,4773,1,Married,4,0,0.337,Medium,EMP1145,3-6K,R&D,0-1y
+32,Research & Development,Laboratory Technician,No,2420,9,Married,2,0,0.149,Low,EMP1146,<3K,R&D,6-10y
+50,Research & Development,Laboratory Technician,Yes,3132,4,Divorced,1,0,0.426,Medium,EMP1147,3-6K,R&D,4-5y
+30,Research & Development,Research Scientist,No,4373,18,Single,1,0,0.077,Low,EMP1148,3-6K,R&D,10y+
+32,Research & Development,Manufacturing Director,No,2605,2,Married,3,0,0.149,Low,EMP1149,<3K,R&D,2-3y
+22,Sales,Sales Representative,No,6693,1,Married,4,0,0.333,Medium,EMP1150,6-10K,Sales,0-1y
+30,Sales,Sales Representative,No,8161,10,Single,2,0,0.268,Low,EMP1151,6-10K,Sales,6-10y
+21,Research & Development,Healthcare Representative,No,4015,3,Married,4,0,0.158,Low,EMP1152,3-6K,R&D,2-3y
+42,Research & Development,Research Scientist,No,4271,7,Married,2,0,0.087,Low,EMP1153,3-6K,R&D,6-10y
+60,Research & Development,Research Director,Yes,7299,3,Single,1,0,0.369,Medium,EMP1154,6-10K,R&D,2-3y
+33,Sales,Manager,No,3667,0,Married,3,0,0.136,Low,EMP1155,3-6K,Sales,0-1y
+21,Research & Development,Laboratory Technician,Yes,3531,0,Married,4,1,0.655,High,EMP1156,3-6K,R&D,0-1y
+45,Sales,Sales Executive,No,10488,2,Married,2,0,0.053,Low,EMP1157,10K+,Sales,2-3y
+30,Sales,Sales Executive,No,8833,0,Married,4,0,0.073,Low,EMP1158,6-10K,Sales,0-1y
+48,Sales,Sales Executive,No,7561,0,Divorced,3,0,0.11,Low,EMP1159,6-10K,Sales,0-1y
+34,Research & Development,Research Scientist,No,9037,14,Married,2,0,0.061,Low,EMP1160,6-10K,R&D,10y+
+31,Sales,Sales Executive,Yes,1830,1,Married,3,0,0.467,Medium,EMP1161,<3K,Sales,0-1y
+35,Research & Development,Laboratory Technician,No,11437,4,Married,2,0,0.201,Low,EMP1162,10K+,R&D,4-5y
+43,Research & Development,Manufacturing Director,No,6738,0,Married,1,0,0.193,Low,EMP1163,6-10K,R&D,0-1y
+34,Research & Development,Healthcare Representative,No,9470,2,Single,4,0,0.082,Low,EMP1164,6-10K,R&D,2-3y
+32,Research & Development,Research Scientist,No,6720,1,Single,2,1,0.274,Low,EMP1165,6-10K,R&D,0-1y
+35,Sales,Manager,No,5579,2,Single,3,0,0.208,Low,EMP1166,3-6K,Sales,2-3y
+25,Sales,Sales Representative,No,4668,10,Married,3,1,0.204,Low,EMP1167,3-6K,Sales,6-10y
+40,Research & Development,Research Director,Yes,6647,2,Divorced,1,0,0.392,Medium,EMP1168,6-10K,R&D,2-3y
+20,Human Resources,Human Resources,No,4575,5,Married,3,0,0.098,Low,EMP1169,3-6K,HR,4-5y
+33,Research & Development,Manufacturing Director,Yes,8754,1,Married,2,0,0.439,Medium,EMP1170,6-10K,R&D,0-1y
+43,Research & Development,Healthcare Representative,No,2269,6,Married,3,0,0.115,Low,EMP1171,<3K,R&D,6-10y
+39,Research & Development,Laboratory Technician,No,4032,0,Married,2,0,0.201,Low,EMP1172,3-6K,R&D,0-1y
+42,Sales,Manager,Yes,16724,5,Married,4,0,0.105,Low,EMP1173,10K+,Sales,4-5y
+36,Research & Development,Research Scientist,No,3849,6,Married,1,0,0.071,Low,EMP1174,3-6K,R&D,6-10y
+47,Research & Development,Manufacturing Director,No,4763,0,Married,1,1,0.125,Low,EMP1175,3-6K,R&D,0-1y
+45,Research & Development,Healthcare Representative,Yes,3342,0,Single,2,0,0.526,Medium,EMP1176,3-6K,R&D,0-1y
+41,Human Resources,Manager,Yes,6533,5,Married,1,0,0.267,Low,EMP1177,6-10K,HR,4-5y
+45,Sales,Sales Executive,Yes,3622,2,Married,1,0,0.411,Medium,EMP1178,3-6K,Sales,2-3y
+43,Sales,Manager,Yes,4904,9,Married,3,0,0.253,Low,EMP1179,3-6K,Sales,6-10y
+33,Sales,Sales Representative,No,8663,24,Divorced,4,0,0.061,Low,EMP1180,6-10K,Sales,10y+
+24,Sales,Manager,No,3698,3,Divorced,3,0,0.161,Low,EMP1181,3-6K,Sales,2-3y
+40,Research & Development,Manufacturing Director,Yes,8381,4,Married,2,1,0.297,Low,EMP1182,6-10K,R&D,4-5y
+41,Research & Development,Healthcare Representative,No,8537,1,Single,4,0,0.134,Low,EMP1183,6-10K,R&D,0-1y
+46,Sales,Sales Representative,Yes,9703,17,Married,2,0,0.179,Low,EMP1184,6-10K,Sales,10y+
+28,Sales,Manager,No,5868,4,Divorced,1,0,0.15,Low,EMP1185,3-6K,Sales,4-5y
+28,Research & Development,Research Director,No,19999,3,Divorced,4,0,0.053,Low,EMP1186,10K+,R&D,2-3y
+41,Research & Development,Research Director,No,9701,3,Divorced,3,0,0.093,Low,EMP1187,6-10K,R&D,2-3y
+36,Sales,Sales Representative,Yes,6494,0,Single,2,1,0.864,High,EMP1188,6-10K,Sales,0-1y
+20,Research & Development,Healthcare Representative,No,3355,5,Married,3,0,0.185,Low,EMP1189,3-6K,R&D,4-5y
+40,Sales,Sales Representative,No,5149,0,Divorced,3,1,0.188,Low,EMP1190,3-6K,Sales,0-1y
+20,Research & Development,Manufacturing Director,Yes,11902,0,Married,1,0,0.554,Medium,EMP1191,10K+,R&D,0-1y
+28,Research & Development,Healthcare Representative,Yes,13908,5,Married,1,0,0.323,Medium,EMP1192,10K+,R&D,4-5y
+49,Sales,Sales Executive,Yes,12247,0,Married,3,0,0.301,Medium,EMP1193,10K+,Sales,0-1y
+53,Research & Development,Healthcare Representative,No,8365,3,Married,1,0,0.069,Low,EMP1194,6-10K,R&D,2-3y
+26,Research & Development,Laboratory Technician,No,2722,4,Single,3,0,0.398,Medium,EMP1195,<3K,R&D,4-5y
+34,Research & Development,Manufacturing Director,No,7100,0,Single,2,0,0.357,Medium,EMP1196,6-10K,R&D,0-1y
+37,Sales,Sales Representative,No,2744,1,Divorced,1,0,0.376,Medium,EMP1197,<3K,Sales,0-1y
+53,Research & Development,Manufacturing Director,No,2396,7,Divorced,3,0,0.066,Low,EMP1198,<3K,R&D,6-10y
+32,Research & Development,Manufacturing Director,No,6195,4,Divorced,2,0,0.096,Low,EMP1199,6-10K,R&D,4-5y
+32,Sales,Sales Representative,Yes,7242,2,Married,2,0,0.727,High,EMP1200,6-10K,Sales,2-3y
+50,Human Resources,Human Resources,No,8927,1,Single,1,0,0.111,Low,EMP1201,6-10K,HR,0-1y
+33,Research & Development,Manufacturing Director,No,7139,4,Single,3,0,0.192,Low,EMP1202,6-10K,R&D,4-5y
+43,Research & Development,Manufacturing Director,No,7276,2,Divorced,4,0,0.062,Low,EMP1203,6-10K,R&D,2-3y
+23,Research & Development,Healthcare Representative,No,3160,3,Married,3,1,0.175,Low,EMP1204,3-6K,R&D,2-3y
+35,Research & Development,Manufacturing Director,No,5126,5,Divorced,1,0,0.086,Low,EMP1205,3-6K,R&D,4-5y
+22,Research & Development,Healthcare Representative,No,2371,9,Married,4,0,0.176,Low,EMP1206,<3K,R&D,6-10y
+27,Sales,Manager,No,1804,19,Married,1,0,0.086,Low,EMP1207,<3K,Sales,10y+
+44,Research & Development,Research Director,No,8162,7,Divorced,2,0,0.028,Low,EMP1208,6-10K,R&D,6-10y
+36,Research & Development,Laboratory Technician,No,3589,5,Single,1,0,0.407,Medium,EMP1209,3-6K,R&D,4-5y
+34,Sales,Manager,Yes,8776,19,Divorced,4,0,0.088,Low,EMP1210,6-10K,Sales,10y+
+30,Research & Development,Research Scientist,Yes,9992,1,Married,1,0,0.451,Medium,EMP1211,6-10K,R&D,0-1y
+35,Research & Development,Laboratory Technician,No,3863,3,Single,3,1,0.342,Medium,EMP1212,3-6K,R&D,2-3y
+39,Sales,Manager,Yes,7515,3,Single,1,0,0.543,Medium,EMP1213,6-10K,Sales,2-3y
+45,Sales,Sales Executive,No,3775,5,Divorced,1,0,0.028,Low,EMP1214,3-6K,Sales,4-5y
+18,Sales,Manager,Yes,1967,5,Married,3,0,0.542,Medium,EMP1215,<3K,Sales,4-5y
+29,Research & Development,Healthcare Representative,Yes,5812,15,Married,4,0,0.173,Low,EMP1216,3-6K,R&D,10y+
+38,Research & Development,Research Director,No,4192,0,Divorced,1,0,0.167,Low,EMP1217,3-6K,R&D,0-1y
+36,Sales,Manager,Yes,4263,3,Married,1,0,0.432,Medium,EMP1218,3-6K,Sales,2-3y
+40,Research & Development,Research Director,No,16097,2,Divorced,2,0,0.013,Low,EMP1219,10K+,R&D,2-3y
+39,Research & Development,Laboratory Technician,No,2346,0,Divorced,4,0,0.201,Low,EMP1220,<3K,R&D,0-1y
+34,Research & Development,Research Director,Yes,6704,0,Single,1,0,0.606,High,EMP1221,6-10K,R&D,0-1y
+32,Sales,Sales Executive,No,3142,1,Married,1,0,0.2,Low,EMP1222,3-6K,Sales,0-1y
+34,Human Resources,Human Resources,No,8951,2,Single,2,0,0.207,Low,EMP1223,6-10K,HR,2-3y
+47,Research & Development,Laboratory Technician,No,6400,11,Married,2,0,0.136,Low,EMP1224,6-10K,R&D,10y+
+30,Sales,Sales Representative,No,6691,2,Married,1,0,0.32,Medium,EMP1225,6-10K,Sales,2-3y
+36,Research & Development,Healthcare Representative,No,3230,4,Divorced,3,0,0.179,Low,EMP1226,3-6K,R&D,4-5y
+38,Research & Development,Research Scientist,No,3565,5,Single,3,0,0.209,Low,EMP1227,3-6K,R&D,4-5y
+51,Research & Development,Research Director,No,9045,4,Married,1,0,0.065,Low,EMP1228,6-10K,R&D,4-5y
+34,Research & Development,Healthcare Representative,No,14384,2,Married,3,0,0.041,Low,EMP1229,10K+,R&D,2-3y
+45,Research & Development,Healthcare Representative,No,7073,11,Single,1,0,0.056,Low,EMP1230,6-10K,R&D,10y+
+48,Research & Development,Research Director,No,3315,10,Divorced,3,0,0.075,Low,EMP1231,3-6K,R&D,6-10y
+36,Human Resources,Human Resources,No,6544,3,Divorced,2,0,0.096,Low,EMP1232,6-10K,HR,2-3y
+35,Research & Development,Research Scientist,No,19999,0,Single,1,0,0.197,Low,EMP1233,10K+,R&D,0-1y
+34,Sales,Manager,No,5746,2,Single,1,0,0.24,Low,EMP1234,3-6K,Sales,2-3y
+34,Sales,Sales Representative,No,12136,1,Divorced,4,0,0.138,Low,EMP1235,10K+,Sales,0-1y
+44,Research & Development,Healthcare Representative,Yes,3614,3,Single,3,0,0.445,Medium,EMP1236,3-6K,R&D,2-3y
+39,Sales,Sales Executive,Yes,5307,2,Single,3,1,0.449,Medium,EMP1237,3-6K,Sales,2-3y
+39,Research & Development,Research Scientist,No,7637,3,Divorced,1,0,0.127,Low,EMP1238,6-10K,R&D,2-3y
+26,Research & Development,Laboratory Technician,No,6758,5,Divorced,1,0,0.298,Low,EMP1239,6-10K,R&D,4-5y
+28,Sales,Sales Executive,No,3563,5,Married,1,0,0.191,Low,EMP1240,3-6K,Sales,4-5y
+56,Sales,Sales Executive,Yes,3479,5,Married,2,0,0.221,Low,EMP1241,3-6K,Sales,4-5y
+35,Research & Development,Healthcare Representative,No,9353,6,Divorced,2,0,0.105,Low,EMP1242,6-10K,R&D,6-10y
+30,Research & Development,Laboratory Technician,No,10460,7,Married,4,0,0.047,Low,EMP1243,10K+,R&D,6-10y
+49,Research & Development,Healthcare Representative,No,12477,2,Married,4,0,0.072,Low,EMP1244,10K+,R&D,2-3y
+39,Sales,Manager,No,14649,13,Divorced,2,0,0.056,Low,EMP1245,10K+,Sales,10y+
+42,Research & Development,Healthcare Representative,No,5849,16,Married,2,0,0.093,Low,EMP1246,3-6K,R&D,10y+
+35,Research & Development,Manufacturing Director,No,4577,1,Married,2,0,0.183,Low,EMP1247,3-6K,R&D,0-1y
+34,Research & Development,Laboratory Technician,No,11419,11,Married,3,0,0.083,Low,EMP1248,10K+,R&D,10y+
+35,Research & Development,Research Director,No,8040,5,Married,3,0,0.136,Low,EMP1249,6-10K,R&D,4-5y
+24,Sales,Sales Executive,No,3164,4,Married,3,0,0.157,Low,EMP1250,3-6K,Sales,4-5y
+36,Sales,Manager,No,3076,1,Married,1,0,0.2,Low,EMP1251,3-6K,Sales,0-1y
+39,Research & Development,Healthcare Representative,Yes,7119,4,Married,2,0,0.291,Low,EMP1252,6-10K,R&D,4-5y
+53,Research & Development,Laboratory Technician,Yes,4927,2,Divorced,4,0,0.315,Medium,EMP1253,3-6K,R&D,2-3y
+37,Research & Development,Healthcare Representative,No,5353,26,Married,2,0,0.027,Low,EMP1254,3-6K,R&D,10y+
+18,Sales,Sales Executive,No,9797,8,Single,1,1,0.313,Medium,EMP1255,6-10K,Sales,6-10y
+36,Sales,Sales Executive,No,8245,3,Single,1,0,0.295,Low,EMP1256,6-10K,Sales,2-3y
+60,Research & Development,Research Director,Yes,11287,8,Single,1,0,0.245,Low,EMP1257,10K+,R&D,6-10y
+44,Research & Development,Research Director,No,1877,3,Divorced,4,0,0.157,Low,EMP1258,<3K,R&D,2-3y
+29,Research & Development,Research Scientist,Yes,6243,0,Married,1,0,0.474,Medium,EMP1259,6-10K,R&D,0-1y
+42,Research & Development,Research Director,No,7959,12,Single,3,0,0.029,Low,EMP1260,6-10K,R&D,10y+
+30,Sales,Manager,No,2345,4,Divorced,2,0,0.158,Low,EMP1261,<3K,Sales,4-5y
+24,Research & Development,Healthcare Representative,No,3788,1,Single,1,0,0.394,Medium,EMP1262,3-6K,R&D,0-1y
+33,Research & Development,Laboratory Technician,No,3421,6,Single,4,0,0.24,Low,EMP1263,3-6K,R&D,6-10y
+37,Sales,Sales Executive,No,5496,10,Divorced,3,0,0.012,Low,EMP1264,3-6K,Sales,6-10y
+20,Research & Development,Healthcare Representative,No,13297,7,Married,4,0,0.133,Low,EMP1265,10K+,R&D,6-10y
+26,Research & Development,Research Director,No,16521,2,Married,4,0,0.17,Low,EMP1266,10K+,R&D,2-3y
+37,Research & Development,Research Director,No,3470,0,Divorced,4,0,0.177,Low,EMP1267,3-6K,R&D,0-1y
+33,Research & Development,Manufacturing Director,No,7256,10,Divorced,3,0,0.123,Low,EMP1268,6-10K,R&D,6-10y
+40,Research & Development,Research Scientist,No,7385,3,Single,3,1,0.16,Low,EMP1269,6-10K,R&D,2-3y
+26,Research & Development,Research Director,Yes,6722,0,Divorced,3,1,0.417,Medium,EMP1270,6-10K,R&D,0-1y
+43,Research & Development,Research Scientist,Yes,6764,0,Married,2,0,0.343,Medium,EMP1271,6-10K,R&D,0-1y
+26,Research & Development,Research Scientist,Yes,6419,0,Single,1,1,0.839,High,EMP1272,6-10K,R&D,0-1y
+51,Research & Development,Research Director,No,13741,5,Divorced,2,0,0.042,Low,EMP1273,10K+,R&D,4-5y
+21,Sales,Sales Representative,No,9960,11,Married,2,0,0.193,Low,EMP1274,6-10K,Sales,10y+
+27,Research & Development,Research Scientist,No,3031,6,Divorced,1,0,0.23,Low,EMP1275,3-6K,R&D,6-10y
+40,Research & Development,Laboratory Technician,Yes,8413,1,Married,4,0,0.419,Medium,EMP1276,6-10K,R&D,0-1y
+51,Research & Development,Manufacturing Director,Yes,8873,13,Married,4,0,0.06,Low,EMP1277,6-10K,R&D,10y+
+39,Sales,Manager,No,6459,1,Single,2,0,0.197,Low,EMP1278,6-10K,Sales,0-1y
+42,Sales,Sales Representative,No,10120,9,Divorced,2,0,0.111,Low,EMP1279,10K+,Sales,6-10y
+37,Research & Development,Healthcare Representative,No,6023,4,Married,4,0,0.093,Low,EMP1280,6-10K,R&D,4-5y
+27,Research & Development,Research Scientist,No,6064,0,Single,2,1,0.35,Medium,EMP1281,6-10K,R&D,0-1y
+32,Research & Development,Healthcare Representative,No,5806,1,Single,3,0,0.193,Low,EMP1282,3-6K,R&D,0-1y
+26,Research & Development,Healthcare Representative,Yes,1789,0,Married,3,0,0.583,Medium,EMP1283,<3K,R&D,0-1y
+25,Research & Development,Healthcare Representative,No,5196,4,Single,2,0,0.277,Low,EMP1284,3-6K,R&D,4-5y
+40,Research & Development,Healthcare Representative,No,3761,7,Married,4,0,0.172,Low,EMP1285,3-6K,R&D,6-10y
+26,Research & Development,Manufacturing Director,No,2828,5,Married,1,0,0.216,Low,EMP1286,<3K,R&D,4-5y
+39,Research & Development,Research Scientist,Yes,11952,10,Single,1,0,0.315,Medium,EMP1287,10K+,R&D,6-10y
+25,Research & Development,Healthcare Representative,No,7167,5,Married,3,0,0.151,Low,EMP1288,6-10K,R&D,4-5y
+39,Research & Development,Research Director,No,5343,1,Single,3,0,0.177,Low,EMP1289,3-6K,R&D,0-1y
+32,Sales,Manager,No,3981,6,Divorced,4,0,0.03,Low,EMP1290,3-6K,Sales,6-10y
+49,Research & Development,Research Scientist,No,6392,4,Divorced,3,0,0.065,Low,EMP1291,6-10K,R&D,4-5y
+39,Sales,Manager,Yes,9370,3,Single,1,1,0.48,Medium,EMP1292,6-10K,Sales,2-3y
+48,Research & Development,Laboratory Technician,No,3446,9,Married,4,0,0.024,Low,EMP1293,3-6K,R&D,6-10y
+30,Sales,Sales Representative,No,5417,22,Married,2,0,0.109,Low,EMP1294,3-6K,Sales,10y+
+37,Sales,Sales Representative,Yes,8755,2,Divorced,1,1,0.556,Medium,EMP1295,6-10K,Sales,2-3y
+28,Human Resources,Human Resources,No,1872,3,Married,3,0,0.156,Low,EMP1296,<3K,HR,2-3y
+33,Sales,Manager,No,5262,5,Married,1,0,0.159,Low,EMP1297,3-6K,Sales,4-5y
+34,Sales,Manager,No,4289,6,Divorced,2,0,0.129,Low,EMP1298,3-6K,Sales,6-10y
+30,Research & Development,Laboratory Technician,Yes,5046,6,Single,2,1,0.704,High,EMP1299,3-6K,R&D,6-10y
+26,Sales,Sales Executive,Yes,4122,0,Married,1,1,0.604,High,EMP1300,3-6K,Sales,0-1y
+24,Research & Development,Research Scientist,No,5858,0,Single,4,0,0.224,Low,EMP1301,3-6K,R&D,0-1y
+18,Research & Development,Research Director,No,15646,4,Married,3,0,0.111,Low,EMP1302,10K+,R&D,4-5y
+27,Research & Development,Manufacturing Director,No,4545,0,Married,4,0,0.16,Low,EMP1303,3-6K,R&D,0-1y
+42,Sales,Manager,No,6376,2,Divorced,2,0,0.078,Low,EMP1304,6-10K,Sales,2-3y
+22,Research & Development,Research Director,No,16270,4,Married,3,0,0.107,Low,EMP1305,10K+,R&D,4-5y
+24,Research & Development,Healthcare Representative,No,4013,0,Single,4,0,0.288,Low,EMP1306,3-6K,R&D,0-1y
+53,Research & Development,Laboratory Technician,Yes,14736,8,Divorced,1,0,0.202,Low,EMP1307,10K+,R&D,6-10y
+31,Research & Development,Laboratory Technician,Yes,5447,4,Divorced,4,1,0.545,Medium,EMP1308,3-6K,R&D,4-5y
+39,Research & Development,Research Scientist,Yes,14473,0,Married,1,0,0.302,Medium,EMP1309,10K+,R&D,0-1y
+42,Research & Development,Research Scientist,No,8205,0,Married,4,0,0.077,Low,EMP1310,6-10K,R&D,0-1y
+42,Research & Development,Healthcare Representative,Yes,6431,1,Single,3,1,0.43,Medium,EMP1311,6-10K,R&D,0-1y
+23,Research & Development,Laboratory Technician,Yes,5239,1,Married,3,1,0.619,High,EMP1312,3-6K,R&D,0-1y
+34,Research & Development,Research Scientist,No,3853,4,Single,1,0,0.289,Low,EMP1313,3-6K,R&D,4-5y
+22,Research & Development,Research Scientist,Yes,5662,0,Single,3,1,0.672,High,EMP1314,3-6K,R&D,0-1y
+59,Research & Development,Laboratory Technician,Yes,8897,3,Divorced,3,0,0.208,Low,EMP1315,6-10K,R&D,2-3y
+22,Research & Development,Laboratory Technician,No,5392,3,Married,4,0,0.204,Low,EMP1316,3-6K,R&D,2-3y
+27,Sales,Sales Executive,No,4563,3,Single,4,0,0.174,Low,EMP1317,3-6K,Sales,2-3y
+27,Research & Development,Manufacturing Director,No,4731,13,Single,2,0,0.092,Low,EMP1318,3-6K,R&D,10y+
+23,Sales,Sales Representative,No,9375,3,Divorced,2,1,0.295,Low,EMP1319,6-10K,Sales,2-3y
+49,Sales,Sales Representative,Yes,10655,0,Single,2,0,0.682,High,EMP1320,10K+,Sales,0-1y
+58,Research & Development,Manufacturing Director,No,3763,4,Single,2,0,0.127,Low,EMP1321,3-6K,R&D,4-5y
+32,Research & Development,Healthcare Representative,No,3760,0,Single,1,0,0.402,Medium,EMP1322,3-6K,R&D,0-1y
+25,Research & Development,Research Director,No,6691,2,Single,1,0,0.353,Medium,EMP1323,6-10K,R&D,2-3y
+18,Sales,Sales Representative,No,12583,2,Single,4,0,0.406,Medium,EMP1324,10K+,Sales,2-3y
+34,Sales,Sales Representative,No,10201,2,Divorced,2,0,0.314,Medium,EMP1325,10K+,Sales,2-3y
+34,Sales,Manager,No,2728,1,Married,2,0,0.174,Low,EMP1326,<3K,Sales,0-1y
+31,Research & Development,Healthcare Representative,No,4697,7,Married,3,0,0.112,Low,EMP1327,3-6K,R&D,6-10y
+38,Research & Development,Laboratory Technician,Yes,3255,4,Married,3,1,0.467,Medium,EMP1328,3-6K,R&D,4-5y
+40,Research & Development,Research Director,No,4688,2,Married,2,0,0.192,Low,EMP1329,3-6K,R&D,2-3y
+39,Sales,Sales Executive,No,13126,10,Married,4,0,0.048,Low,EMP1330,10K+,Sales,6-10y
+34,Research & Development,Manufacturing Director,No,2483,3,Married,1,0,0.159,Low,EMP1331,<3K,R&D,2-3y
+27,Sales,Sales Representative,No,2229,3,Married,2,0,0.407,Medium,EMP1332,<3K,Sales,2-3y
+42,Sales,Sales Representative,Yes,3443,1,Married,1,0,0.674,High,EMP1333,3-6K,Sales,0-1y
+37,Research & Development,Research Scientist,No,6361,4,Divorced,3,0,0.123,Low,EMP1334,6-10K,R&D,4-5y
+44,Research & Development,Research Director,No,7642,1,Married,1,0,0.14,Low,EMP1335,6-10K,R&D,0-1y
+44,Research & Development,Laboratory Technician,No,6909,5,Divorced,4,0,0.096,Low,EMP1336,6-10K,R&D,4-5y
+24,Sales,Sales Executive,No,10369,2,Single,3,0,0.237,Low,EMP1337,10K+,Sales,2-3y
+24,Research & Development,Research Director,Yes,2059,3,Married,1,0,0.543,Medium,EMP1338,<3K,R&D,2-3y
+30,Sales,Manager,No,10441,7,Married,3,0,0.093,Low,EMP1339,10K+,Sales,6-10y
+27,Research & Development,Laboratory Technician,No,4574,0,Single,2,0,0.454,Medium,EMP1340,3-6K,R&D,0-1y
+43,Human Resources,Manager,No,8121,1,Divorced,3,0,0.208,Low,EMP1341,6-10K,HR,0-1y
+40,Sales,Manager,Yes,2623,4,Single,1,1,0.589,Medium,EMP1342,<3K,Sales,4-5y
+46,Research & Development,Laboratory Technician,No,5446,0,Single,3,0,0.229,Low,EMP1343,3-6K,R&D,0-1y
+40,Sales,Sales Representative,No,6185,3,Divorced,1,0,0.21,Low,EMP1344,6-10K,Sales,2-3y
+38,Sales,Sales Representative,No,10256,6,Single,1,0,0.364,Medium,EMP1345,10K+,Sales,6-10y
+47,Sales,Sales Executive,No,2271,1,Married,3,0,0.096,Low,EMP1346,<3K,Sales,0-1y
+41,Research & Development,Research Scientist,No,5524,0,Married,3,1,0.086,Low,EMP1347,3-6K,R&D,0-1y
+37,Research & Development,Laboratory Technician,No,2990,4,Divorced,2,0,0.224,Low,EMP1348,<3K,R&D,4-5y
+50,Research & Development,Laboratory Technician,No,7172,1,Married,1,0,0.191,Low,EMP1349,6-10K,R&D,0-1y
+38,Research & Development,Manufacturing Director,No,8328,0,Married,2,0,0.154,Low,EMP1350,6-10K,R&D,0-1y
+34,Research & Development,Manufacturing Director,Yes,11025,1,Divorced,4,1,0.26,Low,EMP1351,10K+,R&D,0-1y
+29,Research & Development,Research Scientist,Yes,4047,1,Married,3,0,0.453,Medium,EMP1352,3-6K,R&D,0-1y
+43,Research & Development,Research Scientist,No,9045,4,Divorced,1,0,0.11,Low,EMP1353,6-10K,R&D,4-5y
+48,Research & Development,Laboratory Technician,Yes,11481,13,Divorced,4,0,0.152,Low,EMP1354,10K+,R&D,10y+
+36,Research & Development,Healthcare Representative,No,2200,2,Married,2,0,0.18,Low,EMP1355,<3K,R&D,2-3y
+48,Sales,Sales Executive,No,7606,2,Divorced,3,0,0.124,Low,EMP1356,6-10K,Sales,2-3y
+19,Sales,Manager,No,9202,2,Married,1,0,0.217,Low,EMP1357,6-10K,Sales,2-3y
+36,Research & Development,Manufacturing Director,No,4711,1,Single,2,0,0.211,Low,EMP1358,3-6K,R&D,0-1y
+36,Research & Development,Research Director,No,2790,12,Single,4,0,0.105,Low,EMP1359,<3K,R&D,10y+
+30,Sales,Sales Representative,No,9123,1,Married,2,0,0.323,Medium,EMP1360,6-10K,Sales,0-1y
+58,Research & Development,Research Scientist,Yes,2808,13,Single,1,0,0.179,Low,EMP1361,<3K,R&D,10y+
+36,Research & Development,Healthcare Representative,Yes,4924,2,Married,1,0,0.373,Medium,EMP1362,3-6K,R&D,2-3y
+33,Research & Development,Research Scientist,No,5313,30,Married,4,0,0.07,Low,EMP1363,3-6K,R&D,10y+
+37,Sales,Sales Executive,No,8050,1,Married,4,0,0.157,Low,EMP1364,6-10K,Sales,0-1y
+18,Research & Development,Research Scientist,Yes,3848,0,Single,1,1,0.833,High,EMP1365,3-6K,R&D,0-1y
+30,Sales,Sales Executive,No,3727,19,Divorced,4,0,0.06,Low,EMP1366,3-6K,Sales,10y+
+45,Sales,Sales Executive,No,5735,6,Married,4,0,0.051,Low,EMP1367,3-6K,Sales,6-10y
+31,Research & Development,Laboratory Technician,No,9447,7,Single,2,0,0.238,Low,EMP1368,6-10K,R&D,6-10y
+29,Sales,Manager,No,19112,16,Married,3,0,0.054,Low,EMP1369,10K+,Sales,10y+
+48,Sales,Sales Representative,No,2370,4,Married,2,0,0.159,Low,EMP1370,<3K,Sales,4-5y
+49,Research & Development,Manufacturing Director,No,6460,1,Married,1,0,0.069,Low,EMP1371,6-10K,R&D,0-1y
+41,Research & Development,Research Director,No,2988,3,Married,3,0,0.101,Low,EMP1372,<3K,R&D,2-3y
+32,Research & Development,Research Scientist,Yes,9512,0,Single,1,1,0.623,High,EMP1373,6-10K,R&D,0-1y
+34,Research & Development,Manufacturing Director,No,3241,4,Divorced,2,0,0.102,Low,EMP1374,3-6K,R&D,4-5y
+29,Research & Development,Research Director,Yes,3747,2,Married,2,0,0.515,Medium,EMP1375,3-6K,R&D,2-3y
+28,Sales,Sales Representative,No,3928,0,Single,1,0,0.62,High,EMP1376,3-6K,Sales,0-1y
+27,Research & Development,Research Scientist,Yes,5208,2,Married,4,1,0.362,Medium,EMP1377,3-6K,R&D,2-3y
+31,Research & Development,Research Scientist,Yes,6488,1,Married,3,1,0.399,Medium,EMP1378,6-10K,R&D,0-1y
+27,Sales,Sales Executive,Yes,7087,7,Married,4,0,0.267,Low,EMP1379,6-10K,Sales,6-10y
+22,Research & Development,Laboratory Technician,No,5414,2,Married,3,1,0.306,Medium,EMP1380,3-6K,R&D,2-3y
+38,Sales,Sales Executive,No,2613,5,Married,1,0,0.11,Low,EMP1381,<3K,Sales,4-5y
+39,Sales,Manager,Yes,8105,4,Married,2,0,0.234,Low,EMP1382,6-10K,Sales,4-5y
+52,Research & Development,Healthcare Representative,No,5275,1,Single,2,0,0.141,Low,EMP1383,3-6K,R&D,0-1y
+30,Research & Development,Manufacturing Director,No,10290,10,Single,4,0,0.105,Low,EMP1384,10K+,R&D,6-10y
+39,Human Resources,Manager,No,3680,0,Divorced,1,0,0.13,Low,EMP1385,3-6K,HR,0-1y
+39,Sales,Sales Executive,No,2250,1,Married,3,0,0.082,Low,EMP1386,<3K,Sales,0-1y
+34,Human Resources,Human Resources,No,5330,0,Married,1,0,0.198,Low,EMP1387,3-6K,HR,0-1y
+43,Research & Development,Research Scientist,Yes,11078,5,Single,4,0,0.23,Low,EMP1388,10K+,R&D,4-5y
+43,Sales,Manager,No,5934,0,Married,3,0,0.051,Low,EMP1389,3-6K,Sales,0-1y
+39,Research & Development,Healthcare Representative,No,4866,6,Single,2,0,0.209,Low,EMP1390,3-6K,R&D,6-10y
+34,Research & Development,Research Director,Yes,3365,2,Single,2,1,0.597,Medium,EMP1391,3-6K,R&D,2-3y
+33,Research & Development,Research Scientist,No,14282,1,Single,2,1,0.216,Low,EMP1392,10K+,R&D,0-1y
+24,Sales,Manager,No,3083,0,Married,1,0,0.278,Low,EMP1393,3-6K,Sales,0-1y
+29,Research & Development,Laboratory Technician,No,3644,9,Married,3,0,0.18,Low,EMP1394,3-6K,R&D,6-10y
+31,Research & Development,Research Scientist,No,7431,18,Single,4,0,0.066,Low,EMP1395,6-10K,R&D,10y+
+26,Sales,Sales Representative,No,1957,1,Single,1,1,0.568,Medium,EMP1396,<3K,Sales,0-1y
+40,Research & Development,Laboratory Technician,No,10949,2,Married,3,0,0.084,Low,EMP1397,10K+,R&D,2-3y
+47,Research & Development,Research Director,No,7656,4,Married,3,0,0.069,Low,EMP1398,6-10K,R&D,4-5y
+28,Research & Development,Research Director,Yes,8906,3,Married,4,1,0.315,Medium,EMP1399,6-10K,R&D,2-3y
+39,Research & Development,Manufacturing Director,Yes,7383,13,Single,4,0,0.152,Low,EMP1400,6-10K,R&D,10y+
+27,Sales,Sales Executive,No,4971,4,Married,1,0,0.187,Low,EMP1401,3-6K,Sales,4-5y
+34,Sales,Sales Executive,Yes,3026,16,Divorced,1,0,0.209,Low,EMP1402,3-6K,Sales,10y+
+30,Research & Development,Healthcare Representative,No,5028,10,Married,4,0,0.092,Low,EMP1403,3-6K,R&D,6-10y
+42,Human Resources,Manager,No,3176,2,Single,1,0,0.242,Low,EMP1404,3-6K,HR,2-3y
+30,Sales,Manager,No,7096,2,Married,3,0,0.162,Low,EMP1405,6-10K,Sales,2-3y
+46,Research & Development,Healthcare Representative,No,8465,7,Married,4,0,0.099,Low,EMP1406,6-10K,R&D,6-10y
+34,Sales,Sales Executive,No,12237,8,Single,3,0,0.126,Low,EMP1407,10K+,Sales,6-10y
+31,Research & Development,Laboratory Technician,No,6663,3,Single,1,1,0.424,Medium,EMP1408,6-10K,R&D,2-3y
+25,Human Resources,Manager,Yes,9031,0,Divorced,1,1,0.513,Medium,EMP1409,6-10K,HR,0-1y
+39,Sales,Sales Executive,No,4612,5,Married,3,0,0.212,Low,EMP1410,3-6K,Sales,4-5y
+45,Sales,Manager,Yes,4175,8,Divorced,4,0,0.133,Low,EMP1411,3-6K,Sales,6-10y
+39,Research & Development,Laboratory Technician,No,7048,0,Married,2,1,0.184,Low,EMP1412,6-10K,R&D,0-1y
+57,Sales,Manager,No,4391,8,Married,3,0,0.091,Low,EMP1413,3-6K,Sales,6-10y
+49,Research & Development,Research Director,No,6298,2,Single,4,0,0.144,Low,EMP1414,6-10K,R&D,2-3y
+34,Research & Development,Manufacturing Director,No,3030,1,Married,4,0,0.151,Low,EMP1415,3-6K,R&D,0-1y
+34,Research & Development,Laboratory Technician,No,3344,4,Single,3,0,0.335,Medium,EMP1416,3-6K,R&D,4-5y
+41,Sales,Manager,Yes,7703,7,Married,3,0,0.125,Low,EMP1417,6-10K,Sales,6-10y
+29,Research & Development,Laboratory Technician,No,8845,2,Single,4,0,0.33,Medium,EMP1418,6-10K,R&D,2-3y
+47,Sales,Sales Representative,No,3158,2,Married,4,0,0.168,Low,EMP1419,3-6K,Sales,2-3y
+40,Sales,Manager,No,7854,4,Married,2,0,0.15,Low,EMP1420,6-10K,Sales,4-5y
+39,Research & Development,Healthcare Representative,No,4052,16,Single,3,0,0.01,Low,EMP1421,3-6K,R&D,10y+
+43,Research & Development,Laboratory Technician,No,5481,1,Single,2,0,0.306,Medium,EMP1422,3-6K,R&D,0-1y
+52,Research & Development,Research Director,No,11840,1,Divorced,4,0,0.034,Low,EMP1423,10K+,R&D,0-1y
+38,Research & Development,Laboratory Technician,Yes,8468,4,Single,1,1,0.691,High,EMP1424,6-10K,R&D,4-5y
+35,Sales,Manager,Yes,8414,2,Single,1,0,0.585,Medium,EMP1425,6-10K,Sales,2-3y
+50,Research & Development,Healthcare Representative,No,15519,2,Married,2,0,0.076,Low,EMP1426,10K+,R&D,2-3y
+45,Sales,Sales Executive,No,3688,7,Married,1,0,0.062,Low,EMP1427,3-6K,Sales,6-10y
+34,Research & Development,Manufacturing Director,No,3158,4,Married,3,0,0.126,Low,EMP1428,3-6K,R&D,4-5y
+37,Sales,Sales Executive,No,3651,0,Single,3,0,0.222,Low,EMP1429,3-6K,Sales,0-1y
+38,Sales,Manager,No,4722,18,Married,4,0,0.067,Low,EMP1430,3-6K,Sales,10y+
+40,Sales,Sales Executive,No,1487,7,Married,3,0,0.14,Low,EMP1431,<3K,Sales,6-10y
+24,Sales,Sales Executive,Yes,4846,0,Married,3,1,0.51,Medium,EMP1432,3-6K,Sales,0-1y
+23,Sales,Sales Representative,No,4025,7,Divorced,3,0,0.232,Low,EMP1433,3-6K,Sales,6-10y
+29,Research & Development,Healthcare Representative,Yes,8358,11,Divorced,1,0,0.3,Low,EMP1434,6-10K,R&D,10y+
+28,Research & Development,Manufacturing Director,No,6593,7,Single,3,0,0.279,Low,EMP1435,6-10K,R&D,6-10y
+31,Research & Development,Manufacturing Director,No,3903,3,Married,1,0,0.254,Low,EMP1436,3-6K,R&D,2-3y
+42,Research & Development,Manufacturing Director,No,7513,1,Single,3,0,0.039,Low,EMP1437,6-10K,R&D,0-1y
+35,Sales,Manager,No,8085,11,Single,4,0,0.097,Low,EMP1438,6-10K,Sales,10y+
+38,Research & Development,Research Scientist,No,3559,7,Married,4,0,0.121,Low,EMP1439,3-6K,R&D,6-10y
+25,Sales,Manager,No,4141,10,Married,3,0,0.105,Low,EMP1440,3-6K,Sales,6-10y
+32,Research & Development,Healthcare Representative,No,1597,2,Married,2,0,0.169,Low,EMP1441,<3K,R&D,2-3y
+42,Sales,Manager,No,2981,0,Single,4,0,0.169,Low,EMP1442,<3K,Sales,0-1y
+42,Research & Development,Research Director,No,3610,1,Single,4,1,0.187,Low,EMP1443,3-6K,R&D,0-1y
+30,Research & Development,Healthcare Representative,No,5657,7,Divorced,2,1,0.078,Low,EMP1444,3-6K,R&D,6-10y
+38,Sales,Sales Executive,No,3229,3,Divorced,1,0,0.208,Low,EMP1445,3-6K,Sales,2-3y
+56,Human Resources,Manager,No,4095,2,Single,3,0,0.117,Low,EMP1446,3-6K,HR,2-3y
+36,Research & Development,Healthcare Representative,No,2768,3,Married,3,0,0.093,Low,EMP1447,<3K,R&D,2-3y
+30,Research & Development,Research Scientist,No,5967,14,Married,4,0,0.11,Low,EMP1448,3-6K,R&D,10y+
+35,Research & Development,Healthcare Representative,No,6864,3,Married,4,0,0.035,Low,EMP1449,6-10K,R&D,2-3y
+37,Research & Development,Research Scientist,No,6777,8,Married,1,0,0.084,Low,EMP1450,6-10K,R&D,6-10y
+35,Sales,Sales Representative,No,5468,0,Divorced,2,0,0.296,Low,EMP1451,3-6K,Sales,0-1y
+36,Sales,Manager,No,2327,2,Single,4,0,0.281,Low,EMP1452,<3K,Sales,2-3y
+24,Research & Development,Laboratory Technician,Yes,3862,0,Married,2,1,0.725,High,EMP1453,3-6K,R&D,0-1y
+28,Research & Development,Research Scientist,Yes,4341,0,Divorced,2,0,0.439,Medium,EMP1454,3-6K,R&D,0-1y
+35,Research & Development,Healthcare Representative,No,4351,1,Single,2,0,0.232,Low,EMP1455,3-6K,R&D,0-1y
+35,Human Resources,Human Resources,No,5660,3,Single,2,0,0.234,Low,EMP1456,3-6K,HR,2-3y
+31,Research & Development,Research Director,No,11897,14,Married,3,0,0.088,Low,EMP1457,10K+,R&D,10y+
+35,Sales,Sales Executive,Yes,8490,7,Married,2,0,0.362,Medium,EMP1458,6-10K,Sales,6-10y
+37,Research & Development,Healthcare Representative,No,3155,0,Married,2,0,0.226,Low,EMP1459,3-6K,R&D,0-1y
+45,Research & Development,Research Director,No,7888,0,Married,2,0,0.116,Low,EMP1460,6-10K,R&D,0-1y
+36,Research & Development,Research Director,No,7724,12,Married,1,0,0.049,Low,EMP1461,6-10K,R&D,10y+
+40,Sales,Sales Executive,Yes,3486,27,Single,4,0,0.186,Low,EMP1462,3-6K,Sales,10y+
+32,Research & Development,Research Director,No,8663,6,Married,4,0,0.067,Low,EMP1463,6-10K,R&D,6-10y
+42,Research & Development,Research Scientist,No,4973,8,Married,2,0,0.062,Low,EMP1464,3-6K,R&D,6-10y
+40,Sales,Sales Representative,No,2501,5,Divorced,1,0,0.265,Low,EMP1465,<3K,Sales,4-5y
+44,Research & Development,Research Scientist,No,6976,6,Single,3,1,0.067,Low,EMP1466,6-10K,R&D,6-10y
+43,Sales,Sales Representative,No,6120,8,Single,3,0,0.208,Low,EMP1467,6-10K,Sales,6-10y
+42,Research & Development,Healthcare Representative,No,4792,2,Divorced,3,0,0.097,Low,EMP1468,3-6K,R&D,2-3y
+36,Research & Development,Manufacturing Director,No,5320,1,Single,3,0,0.236,Low,EMP1469,3-6K,R&D,0-1y
+39,Research & Development,Laboratory Technician,No,3657,2,Single,3,0,0.281,Low,EMP1470,3-6K,R&D,2-3y
+46,Research & Development,Research Director,No,7597,9,Divorced,1,0,0.026,Low,EMP1471,6-10K,R&D,6-10y
+31,Research & Development,Research Scientist,No,5303,1,Married,1,0,0.132,Low,EMP1472,3-6K,R&D,0-1y
+31,Research & Development,Laboratory Technician,No,5952,14,Married,1,0,0.152,Low,EMP1473,3-6K,R&D,10y+
+38,Research & Development,Manufacturing Director,No,6610,2,Single,1,0,0.234,Low,EMP1474,6-10K,R&D,2-3y
+40,Research & Development,Manufacturing Director,No,2878,0,Single,4,1,0.168,Low,EMP1475,<3K,R&D,0-1y
+29,Research & Development,Healthcare Representative,No,3321,12,Divorced,3,0,0.076,Low,EMP1476,3-6K,R&D,10y+
+36,Research & Development,Research Director,Yes,1610,7,Married,3,1,0.329,Medium,EMP1477,<3K,R&D,6-10y
+36,Research & Development,Laboratory Technician,No,7410,11,Single,3,0,0.222,Low,EMP1478,6-10K,R&D,10y+
+18,Research & Development,Research Scientist,No,2788,3,Married,1,0,0.249,Low,EMP1479,<3K,R&D,2-3y
+35,Research & Development,Manufacturing Director,No,5842,2,Single,1,0,0.262,Low,EMP1480,3-6K,R&D,2-3y
+35,Research & Development,Healthcare Representative,Yes,6661,8,Single,4,0,0.371,Medium,EMP1481,6-10K,R&D,6-10y
+35,Research & Development,Healthcare Representative,No,7565,4,Single,2,1,0.156,Low,EMP1482,6-10K,R&D,4-5y
+49,Research & Development,Research Scientist,Yes,2801,2,Married,3,0,0.275,Low,EMP1483,<3K,R&D,2-3y
+26,Research & Development,Healthcare Representative,No,5240,3,Single,4,1,0.211,Low,EMP1484,3-6K,R&D,2-3y
+29,Research & Development,Research Director,No,13611,2,Married,1,0,0.08,Low,EMP1485,10K+,R&D,2-3y
+18,Research & Development,Manufacturing Director,No,13944,0,Married,4,0,0.136,Low,EMP1486,10K+,R&D,0-1y
+32,Research & Development,Research Director,No,9349,2,Married,3,0,0.114,Low,EMP1487,6-10K,R&D,2-3y
+33,Research & Development,Healthcare Representative,No,6539,5,Single,2,0,0.218,Low,EMP1488,6-10K,R&D,4-5y
+32,Research & Development,Research Scientist,No,3125,0,Single,2,0,0.259,Low,EMP1489,3-6K,R&D,0-1y
+46,Sales,Sales Executive,Yes,8064,3,Single,1,0,0.442,Medium,EMP1490,6-10K,Sales,2-3y
+44,Research & Development,Healthcare Representative,No,4979,3,Married,1,0,0.18,Low,EMP1491,3-6K,R&D,2-3y
+37,Sales,Sales Executive,Yes,7393,0,Married,1,0,0.515,Medium,EMP1492,6-10K,Sales,0-1y
+33,Research & Development,Research Scientist,No,3835,5,Single,4,0,0.219,Low,EMP1493,3-6K,R&D,4-5y
+46,Sales,Sales Executive,No,4938,15,Divorced,1,0,0.017,Low,EMP1494,3-6K,Sales,10y+
+36,Research & Development,Healthcare Representative,No,5944,13,Married,2,0,0.094,Low,EMP1495,3-6K,R&D,10y+
+29,Research & Development,Research Scientist,No,6219,0,Single,1,1,0.31,Medium,EMP1496,6-10K,R&D,0-1y
+21,Research & Development,Healthcare Representative,No,7126,0,Single,2,0,0.351,Medium,EMP1497,6-10K,R&D,0-1y
+33,Research & Development,Research Director,No,3949,6,Single,1,0,0.21,Low,EMP1498,3-6K,R&D,6-10y
+43,Research & Development,Research Director,No,2594,17,Single,2,0,0.025,Low,EMP1499,<3K,R&D,10y+
+57,Sales,Manager,No,13274,0,Married,3,0,0.042,Low,EMP1500,10K+,Sales,0-1y
+37,Sales,Sales Executive,No,19999,1,Single,4,0,0.117,Low,EMP1501,10K+,Sales,0-1y
+30,Sales,Sales Representative,Yes,6947,1,Divorced,2,1,0.728,High,EMP1502,6-10K,Sales,0-1y
+26,Research & Development,Research Scientist,Yes,2622,2,Married,3,0,0.498,Medium,EMP1503,<3K,R&D,2-3y
+41,Research & Development,Research Director,No,3550,6,Married,3,0,0.102,Low,EMP1504,3-6K,R&D,6-10y
+21,Sales,Manager,No,7186,0,Married,4,0,0.18,Low,EMP1505,6-10K,Sales,0-1y
+41,Research & Development,Research Scientist,Yes,11357,3,Married,4,0,0.211,Low,EMP1506,10K+,R&D,2-3y
+44,Sales,Sales Representative,Yes,2787,0,Divorced,1,1,0.708,High,EMP1507,<3K,Sales,0-1y
+40,Research & Development,Healthcare Representative,Yes,5072,0,Divorced,3,0,0.35,Medium,EMP1508,3-6K,R&D,0-1y
+35,Research & Development,Manufacturing Director,No,6049,0,Married,4,0,0.187,Low,EMP1509,6-10K,R&D,0-1y
+42,Research & Development,Manufacturing Director,Yes,8738,0,Single,2,0,0.485,Medium,EMP1510,6-10K,R&D,0-1y
+38,Sales,Sales Executive,No,4496,5,Married,3,0,0.104,Low,EMP1511,3-6K,Sales,4-5y
+29,Research & Development,Manufacturing Director,No,2298,1,Single,2,1,0.33,Medium,EMP1512,<3K,R&D,0-1y
+53,Research & Development,Research Scientist,Yes,7643,2,Married,2,0,0.219,Low,EMP1513,6-10K,R&D,2-3y
+33,Research & Development,Research Director,No,10083,1,Married,1,0,0.131,Low,EMP1514,10K+,R&D,0-1y
+43,Research & Development,Research Director,No,5190,1,Married,1,0,0.15,Low,EMP1515,3-6K,R&D,0-1y
+18,Research & Development,Healthcare Representative,No,6787,10,Married,3,0,0.1,Low,EMP1516,6-10K,R&D,6-10y
+48,Sales,Sales Executive,No,4184,3,Single,4,0,0.116,Low,EMP1517,3-6K,Sales,2-3y
+50,Research & Development,Research Director,No,3411,3,Married,3,0,0.055,Low,EMP1518,3-6K,R&D,2-3y
+37,Sales,Sales Representative,Yes,9552,4,Married,1,0,0.583,Medium,EMP1519,6-10K,Sales,4-5y
+42,Sales,Sales Representative,No,6721,0,Divorced,1,0,0.311,Medium,EMP1520,6-10K,Sales,0-1y
+42,Research & Development,Research Director,No,7113,2,Married,3,0,0.087,Low,EMP1521,6-10K,R&D,2-3y
+31,Research & Development,Research Director,Yes,12408,5,Single,1,0,0.398,Medium,EMP1522,10K+,R&D,4-5y
+41,Research & Development,Laboratory Technician,No,3040,5,Married,3,0,0.178,Low,EMP1523,3-6K,R&D,4-5y
+29,Research & Development,Research Scientist,No,4009,1,Single,4,0,0.236,Low,EMP1524,3-6K,R&D,0-1y
+31,Research & Development,Healthcare Representative,Yes,5924,0,Married,1,0,0.48,Medium,EMP1525,3-6K,R&D,0-1y
+47,Human Resources,Manager,No,3982,2,Married,3,0,0.128,Low,EMP1526,3-6K,HR,2-3y
+45,Human Resources,Human Resources,No,8355,10,Married,4,0,0.01,Low,EMP1527,6-10K,HR,6-10y
+30,Sales,Sales Representative,No,4899,5,Married,2,0,0.329,Medium,EMP1528,3-6K,Sales,4-5y
+30,Research & Development,Research Director,Yes,3146,1,Divorced,4,0,0.4,Medium,EMP1529,3-6K,R&D,0-1y
+31,Sales,Sales Executive,No,5631,22,Married,4,0,0.01,Low,EMP1530,3-6K,Sales,10y+
+43,Sales,Manager,Yes,5965,4,Married,2,0,0.295,Low,EMP1531,3-6K,Sales,4-5y
+28,Research & Development,Healthcare Representative,No,9082,19,Married,2,0,0.044,Low,EMP1532,6-10K,R&D,10y+
+40,Research & Development,Research Director,No,6742,3,Married,3,0,0.075,Low,EMP1533,6-10K,R&D,2-3y
+43,Research & Development,Research Scientist,No,6999,0,Divorced,3,0,0.075,Low,EMP1534,6-10K,R&D,0-1y
+36,Research & Development,Research Scientist,Yes,6477,1,Divorced,2,0,0.384,Medium,EMP1535,6-10K,R&D,0-1y
+46,Research & Development,Manufacturing Director,No,4897,8,Single,1,0,0.125,Low,EMP1536,3-6K,R&D,6-10y
+34,Research & Development,Manufacturing Director,Yes,3663,4,Single,3,1,0.442,Medium,EMP1537,3-6K,R&D,4-5y
+35,Research & Development,Manufacturing Director,No,6366,0,Single,1,1,0.332,Medium,EMP1538,6-10K,R&D,0-1y
+28,Sales,Manager,No,4522,10,Single,1,0,0.206,Low,EMP1539,3-6K,Sales,6-10y
+46,Human Resources,Manager,No,13758,1,Married,1,0,0.059,Low,EMP1540,10K+,HR,0-1y
+30,Research & Development,Research Scientist,Yes,11363,9,Single,2,0,0.332,Medium,EMP1541,10K+,R&D,6-10y
+40,Sales,Manager,Yes,7692,0,Married,1,1,0.43,Medium,EMP1542,6-10K,Sales,0-1y
+36,Human Resources,Human Resources,No,6688,6,Single,2,0,0.118,Low,EMP1543,6-10K,HR,6-10y
+27,Research & Development,Manufacturing Director,Yes,5175,0,Single,1,0,0.772,High,EMP1544,3-6K,R&D,0-1y
+31,Research & Development,Laboratory Technician,Yes,2714,4,Married,2,0,0.584,Medium,EMP1545,<3K,R&D,4-5y
+49,Research & Development,Research Scientist,No,4822,2,Married,4,0,0.056,Low,EMP1546,3-6K,R&D,2-3y
+38,Research & Development,Research Director,No,5743,12,Married,2,0,0.033,Low,EMP1547,3-6K,R&D,10y+
+27,Sales,Sales Representative,Yes,6162,2,Divorced,3,0,0.66,High,EMP1548,6-10K,Sales,2-3y
+39,Research & Development,Healthcare Representative,No,7032,12,Divorced,1,0,0.081,Low,EMP1549,6-10K,R&D,10y+
+35,Research & Development,Laboratory Technician,No,9015,3,Married,1,0,0.213,Low,EMP1550,6-10K,R&D,2-3y
+60,Research & Development,Healthcare Representative,No,3711,0,Single,4,0,0.075,Low,EMP1551,3-6K,R&D,0-1y
+39,Research & Development,Research Scientist,No,3730,1,Single,3,0,0.201,Low,EMP1552,3-6K,R&D,0-1y
+33,Sales,Manager,No,12063,2,Divorced,1,0,0.164,Low,EMP1553,10K+,Sales,2-3y
+49,Research & Development,Research Director,No,8300,14,Married,3,0,0.01,Low,EMP1554,6-10K,R&D,10y+
+20,Research & Development,Manufacturing Director,No,4381,1,Married,1,0,0.275,Low,EMP1555,3-6K,R&D,0-1y
+37,Research & Development,Laboratory Technician,No,5120,10,Married,1,0,0.12,Low,EMP1556,3-6K,R&D,6-10y
+54,Research & Development,Manufacturing Director,Yes,5133,5,Single,2,0,0.289,Low,EMP1557,3-6K,R&D,4-5y
+35,Research & Development,Laboratory Technician,No,5526,8,Married,3,0,0.148,Low,EMP1558,3-6K,R&D,6-10y
+21,Research & Development,Manufacturing Director,Yes,7044,3,Divorced,3,1,0.414,Medium,EMP1559,6-10K,R&D,2-3y
+33,Research & Development,Laboratory Technician,No,19999,1,Divorced,4,0,0.046,Low,EMP1560,10K+,R&D,0-1y
+50,Research & Development,Healthcare Representative,No,6029,1,Single,1,0,0.234,Low,EMP1561,6-10K,R&D,0-1y
+40,Sales,Sales Executive,No,7819,3,Married,1,0,0.159,Low,EMP1562,6-10K,Sales,2-3y
+29,Research & Development,Research Scientist,No,2148,8,Single,3,1,0.121,Low,EMP1563,<3K,R&D,6-10y
+30,Research & Development,Laboratory Technician,No,4160,4,Divorced,4,0,0.123,Low,EMP1564,3-6K,R&D,4-5y
+31,Sales,Manager,Yes,10677,12,Single,3,0,0.311,Medium,EMP1565,10K+,Sales,10y+
+40,Sales,Manager,No,6776,0,Married,3,0,0.103,Low,EMP1566,6-10K,Sales,0-1y
+49,Research & Development,Research Director,No,1009,0,Single,1,0,0.307,Medium,EMP1567,<3K,R&D,0-1y
+46,Research & Development,Laboratory Technician,Yes,7869,3,Married,4,0,0.321,Medium,EMP1568,6-10K,R&D,2-3y
+41,Research & Development,Research Scientist,No,15599,1,Married,4,0,0.075,Low,EMP1569,10K+,R&D,0-1y
+25,Research & Development,Research Director,No,1812,6,Married,3,0,0.116,Low,EMP1570,<3K,R&D,6-10y
+25,Sales,Sales Representative,No,12527,2,Divorced,2,0,0.292,Low,EMP1571,10K+,Sales,2-3y
+41,Research & Development,Laboratory Technician,No,1182,9,Divorced,3,0,0.085,Low,EMP1572,<3K,R&D,6-10y
+24,Sales,Sales Executive,Yes,9098,6,Divorced,3,0,0.375,Medium,EMP1573,6-10K,Sales,6-10y
+34,Sales,Sales Executive,Yes,5405,12,Married,4,0,0.203,Low,EMP1574,3-6K,Sales,10y+
+39,Research & Development,Research Director,Yes,1491,0,Married,1,0,0.482,Medium,EMP1575,<3K,R&D,0-1y
+26,Sales,Sales Executive,Yes,6942,2,Married,3,0,0.44,Medium,EMP1576,6-10K,Sales,2-3y
+27,Research & Development,Research Director,No,10228,0,Married,3,0,0.228,Low,EMP1577,10K+,R&D,0-1y
+36,Sales,Manager,No,6635,5,Married,2,1,0.104,Low,EMP1578,6-10K,Sales,4-5y
+41,Research & Development,Research Director,Yes,7492,1,Married,4,0,0.275,Low,EMP1579,6-10K,R&D,0-1y
+46,Research & Development,Research Director,No,4331,3,Single,1,0,0.178,Low,EMP1580,3-6K,R&D,2-3y
+42,Research & Development,Research Scientist,No,1951,6,Married,1,0,0.133,Low,EMP1581,<3K,R&D,6-10y
+37,Research & Development,Research Director,No,7946,3,Single,4,0,0.078,Low,EMP1582,6-10K,R&D,2-3y
+30,Research & Development,Laboratory Technician,No,14219,5,Single,1,0,0.261,Low,EMP1583,10K+,R&D,4-5y
+27,Sales,Sales Executive,No,10109,0,Single,2,0,0.257,Low,EMP1584,10K+,Sales,0-1y
+32,Research & Development,Research Scientist,No,1820,3,Single,2,0,0.35,Medium,EMP1585,<3K,R&D,2-3y
+40,Research & Development,Laboratory Technician,Yes,2360,1,Divorced,3,0,0.454,Medium,EMP1586,<3K,R&D,0-1y
+40,Research & Development,Laboratory Technician,No,3410,1,Married,1,0,0.246,Low,EMP1587,3-6K,R&D,0-1y
+18,Research & Development,Laboratory Technician,No,2261,4,Single,2,0,0.576,Medium,EMP1588,<3K,R&D,4-5y
+29,Research & Development,Laboratory Technician,No,5565,6,Divorced,4,0,0.147,Low,EMP1589,3-6K,R&D,6-10y
+47,Sales,Sales Representative,No,6743,1,Divorced,2,0,0.201,Low,EMP1590,6-10K,Sales,0-1y
+37,Research & Development,Laboratory Technician,No,2473,6,Divorced,3,0,0.135,Low,EMP1591,<3K,R&D,6-10y
+24,Research & Development,Laboratory Technician,No,8328,6,Divorced,4,0,0.121,Low,EMP1592,6-10K,R&D,6-10y
+58,Research & Development,Research Director,No,7559,0,Divorced,3,0,0.01,Low,EMP1593,6-10K,R&D,0-1y
+36,Research & Development,Laboratory Technician,No,4017,15,Married,4,0,0.061,Low,EMP1594,3-6K,R&D,10y+
+40,Research & Development,Laboratory Technician,No,4939,8,Divorced,4,0,0.068,Low,EMP1595,3-6K,R&D,6-10y
+40,Sales,Sales Executive,No,1858,12,Divorced,3,0,0.08,Low,EMP1596,<3K,Sales,10y+
+33,Research & Development,Laboratory Technician,Yes,4524,2,Single,4,1,0.64,High,EMP1597,3-6K,R&D,2-3y
+30,Human Resources,Manager,No,5453,1,Divorced,3,0,0.132,Low,EMP1598,3-6K,HR,0-1y
+56,Research & Development,Research Director,Yes,5959,0,Divorced,4,0,0.173,Low,EMP1599,3-6K,R&D,0-1y
+46,Research & Development,Healthcare Representative,Yes,6690,8,Married,3,0,0.179,Low,EMP1600,6-10K,R&D,6-10y
+44,Sales,Sales Representative,No,6212,18,Divorced,2,0,0.071,Low,EMP1601,6-10K,Sales,10y+
+42,Sales,Sales Executive,No,4696,4,Married,3,0,0.054,Low,EMP1602,3-6K,Sales,4-5y
+27,Sales,Manager,Yes,6357,2,Married,2,1,0.462,Medium,EMP1603,6-10K,Sales,2-3y
+48,Human Resources,Human Resources,Yes,9424,5,Married,2,0,0.247,Low,EMP1604,6-10K,HR,4-5y
+29,Sales,Sales Representative,Yes,5153,0,Married,2,1,0.788,High,EMP1605,3-6K,Sales,0-1y
+39,Sales,Sales Representative,No,6468,1,Divorced,2,0,0.237,Low,EMP1606,6-10K,Sales,0-1y
+22,Research & Development,Research Director,No,4903,3,Divorced,2,0,0.195,Low,EMP1607,3-6K,R&D,2-3y
+18,Sales,Sales Executive,Yes,3805,3,Married,3,1,0.441,Medium,EMP1608,3-6K,Sales,2-3y
+39,Research & Development,Healthcare Representative,Yes,7241,13,Divorced,2,0,0.181,Low,EMP1609,6-10K,R&D,10y+
+29,Research & Development,Manufacturing Director,No,4002,3,Single,2,0,0.257,Low,EMP1610,3-6K,R&D,2-3y
+19,Sales,Sales Representative,No,6716,1,Divorced,1,0,0.438,Medium,EMP1611,6-10K,Sales,0-1y
+41,Human Resources,Manager,No,5516,2,Single,2,0,0.165,Low,EMP1612,3-6K,HR,2-3y
+56,Human Resources,Manager,No,4595,4,Married,2,0,0.06,Low,EMP1613,3-6K,HR,4-5y
+49,Research & Development,Manufacturing Director,No,4534,0,Single,4,0,0.177,Low,EMP1614,3-6K,R&D,0-1y
+34,Sales,Sales Representative,No,4107,1,Married,2,0,0.373,Medium,EMP1615,3-6K,Sales,0-1y
+37,Sales,Manager,No,2196,1,Married,1,0,0.156,Low,EMP1616,<3K,Sales,0-1y
+44,Research & Development,Research Scientist,Yes,6704,12,Single,2,0,0.259,Low,EMP1617,6-10K,R&D,10y+
+47,Research & Development,Laboratory Technician,No,6169,1,Married,3,0,0.121,Low,EMP1618,6-10K,R&D,0-1y
+33,Research & Development,Manufacturing Director,No,8667,1,Married,1,0,0.191,Low,EMP1619,6-10K,R&D,0-1y
+37,Sales,Sales Executive,No,4054,0,Single,1,0,0.301,Medium,EMP1620,3-6K,Sales,0-1y
+39,Research & Development,Laboratory Technician,No,15405,2,Married,2,0,0.128,Low,EMP1621,10K+,R&D,2-3y
+41,Human Resources,Human Resources,Yes,4407,0,Single,2,0,0.591,Medium,EMP1622,3-6K,HR,0-1y
+35,Research & Development,Healthcare Representative,No,3356,4,Single,2,0,0.203,Low,EMP1623,3-6K,R&D,4-5y
+35,Human Resources,Manager,No,3144,5,Single,1,0,0.304,Medium,EMP1624,3-6K,HR,4-5y
+49,Research & Development,Research Scientist,Yes,2092,0,Married,3,0,0.315,Medium,EMP1625,<3K,R&D,0-1y
+47,Sales,Sales Representative,No,12618,0,Married,1,0,0.158,Low,EMP1626,10K+,Sales,0-1y
+41,Research & Development,Laboratory Technician,No,11545,1,Married,3,0,0.12,Low,EMP1627,10K+,R&D,0-1y
+52,Research & Development,Healthcare Representative,No,7558,16,Divorced,3,0,0.089,Low,EMP1628,6-10K,R&D,10y+
+33,Sales,Sales Executive,No,3318,9,Married,1,0,0.115,Low,EMP1629,3-6K,Sales,6-10y
+51,Sales,Manager,No,14708,6,Divorced,2,0,0.09,Low,EMP1630,10K+,Sales,6-10y
+41,Sales,Manager,No,4476,8,Divorced,1,0,0.081,Low,EMP1631,3-6K,Sales,6-10y
+60,Research & Development,Healthcare Representative,Yes,4684,9,Married,3,0,0.097,Low,EMP1632,3-6K,R&D,6-10y
+26,Research & Development,Research Scientist,No,11973,1,Single,2,0,0.255,Low,EMP1633,10K+,R&D,0-1y
+30,Research & Development,Research Director,Yes,7804,3,Single,2,1,0.525,Medium,EMP1634,6-10K,R&D,2-3y
+40,Research & Development,Healthcare Representative,No,18226,5,Married,1,0,0.102,Low,EMP1635,10K+,R&D,4-5y
+40,Sales,Sales Representative,No,6227,1,Married,2,1,0.271,Low,EMP1636,6-10K,Sales,0-1y
+54,Sales,Manager,No,4366,11,Single,2,0,0.053,Low,EMP1637,3-6K,Sales,10y+
+30,Sales,Manager,Yes,3879,4,Divorced,1,0,0.48,Medium,EMP1638,3-6K,Sales,4-5y
+45,Sales,Sales Executive,Yes,1966,4,Divorced,4,0,0.228,Low,EMP1639,<3K,Sales,4-5y
+47,Sales,Manager,No,4660,2,Single,2,0,0.186,Low,EMP1640,3-6K,Sales,2-3y
+43,Sales,Manager,Yes,10193,0,Single,1,1,0.572,Medium,EMP1641,10K+,Sales,0-1y
+28,Research & Development,Research Scientist,Yes,7550,5,Single,3,1,0.474,Medium,EMP1642,6-10K,R&D,4-5y
+49,Research & Development,Research Scientist,No,5492,6,Married,2,0,0.101,Low,EMP1643,3-6K,R&D,6-10y
+48,Research & Development,Healthcare Representative,No,3142,11,Divorced,2,0,0.071,Low,EMP1644,3-6K,R&D,10y+
+42,Sales,Sales Executive,No,6153,4,Married,3,0,0.091,Low,EMP1645,6-10K,Sales,4-5y
+38,Research & Development,Manufacturing Director,No,9481,5,Single,1,0,0.165,Low,EMP1646,6-10K,R&D,4-5y
+39,Research & Development,Healthcare Representative,No,6883,6,Married,3,0,0.05,Low,EMP1647,6-10K,R&D,6-10y
+36,Sales,Sales Representative,No,5953,4,Single,1,1,0.443,Medium,EMP1648,3-6K,Sales,4-5y
+42,Research & Development,Research Director,No,3504,2,Married,1,0,0.138,Low,EMP1649,3-6K,R&D,2-3y
+37,Research & Development,Laboratory Technician,No,8751,3,Married,1,0,0.159,Low,EMP1650,6-10K,R&D,2-3y
+29,Sales,Sales Executive,No,1009,1,Married,1,0,0.294,Low,EMP1651,<3K,Sales,0-1y
+27,Sales,Manager,No,6704,0,Married,2,0,0.192,Low,EMP1652,6-10K,Sales,0-1y
+30,Research & Development,Manufacturing Director,No,19999,14,Divorced,4,0,0.03,Low,EMP1653,10K+,R&D,10y+
+38,Sales,Sales Executive,No,2369,1,Single,4,0,0.249,Low,EMP1654,<3K,Sales,0-1y
+36,Research & Development,Research Scientist,No,4756,3,Married,1,0,0.084,Low,EMP1655,3-6K,R&D,2-3y
+38,Sales,Sales Representative,No,5408,3,Single,4,0,0.354,Medium,EMP1656,3-6K,Sales,2-3y
+41,Research & Development,Manufacturing Director,No,4211,3,Single,3,0,0.135,Low,EMP1657,3-6K,R&D,2-3y
+31,Research & Development,Research Scientist,Yes,9604,18,Divorced,3,0,0.146,Low,EMP1658,6-10K,R&D,10y+
+50,Research & Development,Healthcare Representative,No,7043,1,Married,4,0,0.048,Low,EMP1659,6-10K,R&D,0-1y
+34,Research & Development,Manufacturing Director,Yes,5906,0,Single,2,0,0.581,Medium,EMP1660,3-6K,R&D,0-1y
+33,Sales,Sales Representative,No,8421,2,Married,2,0,0.318,Medium,EMP1661,6-10K,Sales,2-3y
+41,Research & Development,Laboratory Technician,No,5481,2,Married,3,0,0.237,Low,EMP1662,3-6K,R&D,2-3y
+20,Research & Development,Healthcare Representative,No,19999,0,Divorced,3,0,0.097,Low,EMP1663,10K+,R&D,0-1y
+29,Research & Development,Research Director,Yes,5903,0,Married,3,0,0.448,Medium,EMP1664,3-6K,R&D,0-1y
+45,Sales,Sales Executive,No,6047,1,Single,1,0,0.209,Low,EMP1665,6-10K,Sales,0-1y
+21,Sales,Sales Executive,No,2120,4,Married,4,0,0.236,Low,EMP1666,<3K,Sales,4-5y
+47,Human Resources,Manager,Yes,4028,0,Single,2,0,0.427,Medium,EMP1667,3-6K,HR,0-1y
+50,Research & Development,Healthcare Representative,Yes,10209,2,Single,4,0,0.278,Low,EMP1668,10K+,R&D,2-3y
+33,Research & Development,Healthcare Representative,Yes,2605,2,Married,2,0,0.434,Medium,EMP1669,<3K,R&D,2-3y
+39,Research & Development,Manufacturing Director,Yes,1657,10,Married,1,0,0.229,Low,EMP1670,<3K,R&D,6-10y
+47,Research & Development,Healthcare Representative,Yes,5529,11,Single,4,1,0.204,Low,EMP1671,3-6K,R&D,10y+
+32,Human Resources,Manager,No,11543,7,Divorced,3,0,0.152,Low,EMP1672,10K+,HR,6-10y
+44,Sales,Sales Executive,No,5559,2,Married,1,1,0.102,Low,EMP1673,3-6K,Sales,2-3y
+30,Research & Development,Healthcare Representative,Yes,4514,1,Married,1,0,0.566,Medium,EMP1674,3-6K,R&D,0-1y
+32,Research & Development,Manufacturing Director,Yes,1954,1,Single,1,1,0.799,High,EMP1675,<3K,R&D,0-1y
+29,Sales,Sales Executive,Yes,6965,2,Married,1,0,0.479,Medium,EMP1676,6-10K,Sales,2-3y
+40,Research & Development,Manufacturing Director,No,7814,6,Single,4,0,0.114,Low,EMP1677,6-10K,R&D,6-10y
+47,Research & Development,Manufacturing Director,No,2038,4,Single,1,1,0.132,Low,EMP1678,<3K,R&D,4-5y
+35,Research & Development,Laboratory Technician,No,10137,0,Single,1,0,0.326,Medium,EMP1679,10K+,R&D,0-1y
+25,Research & Development,Research Director,Yes,8276,3,Single,4,0,0.531,Medium,EMP1680,6-10K,R&D,2-3y
+27,Research & Development,Research Scientist,Yes,10125,7,Single,4,0,0.37,Medium,EMP1681,10K+,R&D,6-10y
+40,Research & Development,Research Scientist,No,7487,12,Single,1,0,0.136,Low,EMP1682,6-10K,R&D,10y+
+53,Research & Development,Manufacturing Director,Yes,7781,0,Divorced,3,0,0.225,Low,EMP1683,6-10K,R&D,0-1y
+40,Research & Development,Research Director,Yes,7232,26,Divorced,3,0,0.166,Low,EMP1684,6-10K,R&D,10y+
+33,Research & Development,Healthcare Representative,Yes,8757,3,Married,3,0,0.286,Low,EMP1685,6-10K,R&D,2-3y
+43,Research & Development,Healthcare Representative,No,1997,0,Divorced,2,0,0.216,Low,EMP1686,<3K,R&D,0-1y
+34,Human Resources,Human Resources,No,2378,6,Single,4,0,0.171,Low,EMP1687,<3K,HR,6-10y
+33,Sales,Manager,No,3623,9,Married,4,0,0.154,Low,EMP1688,3-6K,Sales,6-10y
+28,Research & Development,Research Director,No,5057,1,Divorced,3,1,0.114,Low,EMP1689,3-6K,R&D,0-1y
+49,Research & Development,Manufacturing Director,Yes,6724,1,Married,4,0,0.219,Low,EMP1690,6-10K,R&D,0-1y
+18,Sales,Sales Representative,No,6493,2,Single,1,0,0.639,High,EMP1691,6-10K,Sales,2-3y
+44,Research & Development,Laboratory Technician,Yes,10040,4,Married,3,0,0.313,Medium,EMP1692,10K+,R&D,4-5y
+32,Research & Development,Healthcare Representative,No,10215,1,Married,4,0,0.149,Low,EMP1693,10K+,R&D,0-1y
+33,Sales,Manager,No,3361,0,Married,3,0,0.178,Low,EMP1694,3-6K,Sales,0-1y
+52,Research & Development,Manufacturing Director,No,6193,2,Married,4,0,0.116,Low,EMP1695,6-10K,R&D,2-3y
+30,Sales,Sales Representative,No,3407,1,Married,2,0,0.348,Medium,EMP1696,3-6K,Sales,0-1y
+30,Research & Development,Manufacturing Director,Yes,4897,4,Single,4,0,0.45,Medium,EMP1697,3-6K,R&D,4-5y
+35,Sales,Sales Executive,No,6483,8,Married,4,0,0.076,Low,EMP1698,6-10K,Sales,6-10y
+40,Research & Development,Healthcare Representative,No,1009,2,Single,3,0,0.213,Low,EMP1699,<3K,R&D,2-3y
+33,Research & Development,Healthcare Representative,No,19999,11,Divorced,3,0,0.038,Low,EMP1700,10K+,R&D,10y+
+22,Research & Development,Research Director,No,7416,5,Married,3,0,0.1,Low,EMP1701,6-10K,R&D,4-5y
+29,Research & Development,Research Director,Yes,3914,3,Married,2,1,0.508,Medium,EMP1702,3-6K,R&D,2-3y
+48,Sales,Sales Representative,No,15678,6,Married,3,0,0.074,Low,EMP1703,10K+,Sales,6-10y
+37,Research & Development,Research Director,No,4486,8,Single,4,0,0.181,Low,EMP1704,3-6K,R&D,6-10y
+41,Research & Development,Manufacturing Director,No,5842,5,Married,1,0,0.117,Low,EMP1705,3-6K,R&D,4-5y
+34,Sales,Sales Representative,Yes,4155,0,Married,1,0,0.828,High,EMP1706,3-6K,Sales,0-1y
+31,Sales,Sales Representative,No,13475,0,Married,2,0,0.27,Low,EMP1707,10K+,Sales,0-1y
+52,Research & Development,Research Director,No,5126,8,Married,2,0,0.035,Low,EMP1708,3-6K,R&D,6-10y
+35,Research & Development,Healthcare Representative,No,5897,0,Divorced,3,0,0.151,Low,EMP1709,3-6K,R&D,0-1y
+33,Human Resources,Human Resources,Yes,10531,3,Married,2,0,0.397,Medium,EMP1710,10K+,HR,2-3y
+46,Sales,Sales Executive,Yes,7493,0,Married,3,0,0.278,Low,EMP1711,6-10K,Sales,0-1y
+30,Sales,Sales Representative,No,5271,12,Married,1,0,0.26,Low,EMP1712,3-6K,Sales,10y+
+31,Sales,Sales Representative,Yes,10003,1,Single,2,0,0.861,High,EMP1713,10K+,Sales,0-1y
+37,Sales,Manager,No,19999,4,Single,3,0,0.099,Low,EMP1714,10K+,Sales,4-5y
+37,Research & Development,Manufacturing Director,No,6467,1,Divorced,2,0,0.144,Low,EMP1715,6-10K,R&D,0-1y
+39,Research & Development,Manufacturing Director,Yes,5791,3,Divorced,3,1,0.318,Medium,EMP1716,3-6K,R&D,2-3y
+55,Research & Development,Research Director,Yes,5966,0,Divorced,3,0,0.257,Low,EMP1717,3-6K,R&D,0-1y
+40,Sales,Sales Representative,No,11167,1,Single,2,0,0.268,Low,EMP1718,10K+,Sales,0-1y
+18,Human Resources,Human Resources,Yes,3906,6,Single,2,0,0.711,High,EMP1719,3-6K,HR,6-10y
+39,Research & Development,Manufacturing Director,No,4660,2,Married,4,1,0.094,Low,EMP1720,3-6K,R&D,2-3y
+37,Research & Development,Manufacturing Director,No,2331,3,Divorced,4,0,0.097,Low,EMP1721,<3K,R&D,2-3y
+37,Research & Development,Research Director,No,2832,6,Single,1,0,0.279,Low,EMP1722,<3K,R&D,6-10y
+39,Human Resources,Manager,No,4085,1,Single,3,1,0.172,Low,EMP1723,3-6K,HR,0-1y
+36,Research & Development,Manufacturing Director,No,5267,0,Single,2,1,0.195,Low,EMP1724,3-6K,R&D,0-1y
+36,Research & Development,Manufacturing Director,No,14371,2,Married,1,0,0.138,Low,EMP1725,10K+,R&D,2-3y
+42,Research & Development,Manufacturing Director,Yes,7293,5,Divorced,3,0,0.174,Low,EMP1726,6-10K,R&D,4-5y
+32,Research & Development,Laboratory Technician,No,3289,4,Married,1,1,0.195,Low,EMP1727,3-6K,R&D,4-5y
+28,Research & Development,Manufacturing Director,No,3639,8,Single,2,1,0.255,Low,EMP1728,3-6K,R&D,6-10y
+60,Research & Development,Research Scientist,No,11569,14,Married,3,0,0.039,Low,EMP1729,10K+,R&D,10y+
+30,Research & Development,Laboratory Technician,No,10093,9,Married,4,0,0.124,Low,EMP1730,10K+,R&D,6-10y
+37,Research & Development,Laboratory Technician,No,5516,1,Single,2,1,0.326,Medium,EMP1731,3-6K,R&D,0-1y
+23,Research & Development,Manufacturing Director,Yes,4258,7,Single,4,1,0.449,Medium,EMP1732,3-6K,R&D,6-10y
+38,Research & Development,Laboratory Technician,Yes,10084,5,Married,4,0,0.251,Low,EMP1733,10K+,R&D,4-5y
+28,Research & Development,Healthcare Representative,Yes,3145,3,Married,2,0,0.473,Medium,EMP1734,3-6K,R&D,2-3y
+33,Sales,Sales Representative,No,6738,1,Divorced,1,1,0.292,Low,EMP1735,6-10K,Sales,0-1y
+46,Research & Development,Research Scientist,Yes,18957,6,Married,3,0,0.126,Low,EMP1736,10K+,R&D,6-10y
+41,Research & Development,Healthcare Representative,No,6081,2,Married,1,0,0.118,Low,EMP1737,6-10K,R&D,2-3y
+42,Research & Development,Manufacturing Director,Yes,3545,0,Married,4,0,0.317,Medium,EMP1738,3-6K,R&D,0-1y
+21,Research & Development,Healthcare Representative,No,6806,6,Married,2,0,0.165,Low,EMP1739,6-10K,R&D,6-10y
+53,Research & Development,Healthcare Representative,No,4194,1,Single,4,0,0.134,Low,EMP1740,3-6K,R&D,0-1y
+26,Research & Development,Laboratory Technician,No,2523,9,Married,3,0,0.212,Low,EMP1741,<3K,R&D,6-10y
+50,Sales,Sales Executive,No,7986,9,Single,2,0,0.079,Low,EMP1742,6-10K,Sales,6-10y
+46,Research & Development,Manufacturing Director,No,10044,0,Married,4,1,0.081,Low,EMP1743,10K+,R&D,0-1y
+42,Research & Development,Research Director,No,4577,8,Married,4,0,0.078,Low,EMP1744,3-6K,R&D,6-10y
+29,Research & Development,Laboratory Technician,Yes,4413,2,Married,4,0,0.432,Medium,EMP1745,3-6K,R&D,2-3y
+38,Research & Development,Laboratory Technician,No,3200,1,Married,1,0,0.299,Low,EMP1746,3-6K,R&D,0-1y
+32,Research & Development,Research Director,Yes,5001,3,Single,2,1,0.597,Medium,EMP1747,3-6K,R&D,2-3y
+37,Sales,Manager,No,3986,1,Married,4,0,0.139,Low,EMP1748,3-6K,Sales,0-1y
+34,Sales,Sales Executive,No,3114,1,Single,4,0,0.159,Low,EMP1749,3-6K,Sales,0-1y
+18,Research & Development,Manufacturing Director,No,15377,4,Divorced,2,0,0.116,Low,EMP1750,10K+,R&D,4-5y
+47,Research & Development,Healthcare Representative,Yes,7020,2,Married,1,0,0.27,Low,EMP1751,6-10K,R&D,2-3y
+36,Research & Development,Laboratory Technician,Yes,7441,9,Divorced,2,0,0.401,Medium,EMP1752,6-10K,R&D,6-10y
+32,Research & Development,Research Scientist,Yes,8829,5,Married,3,0,0.224,Low,EMP1753,6-10K,R&D,4-5y
+31,Sales,Sales Representative,No,8300,7,Divorced,3,0,0.15,Low,EMP1754,6-10K,Sales,6-10y
+40,Research & Development,Healthcare Representative,No,4327,2,Single,4,0,0.181,Low,EMP1755,3-6K,R&D,2-3y
+28,Research & Development,Research Scientist,No,6310,6,Single,1,0,0.222,Low,EMP1756,6-10K,R&D,6-10y
+18,Sales,Sales Representative,Yes,4684,6,Single,2,1,0.912,High,EMP1757,3-6K,Sales,6-10y
+40,Research & Development,Research Scientist,No,6912,9,Single,2,1,0.164,Low,EMP1758,6-10K,R&D,6-10y
+41,Research & Development,Healthcare Representative,Yes,6554,1,Divorced,4,0,0.302,Medium,EMP1759,6-10K,R&D,0-1y
+35,Sales,Sales Executive,No,4400,0,Married,1,0,0.223,Low,EMP1760,3-6K,Sales,0-1y
+26,Research & Development,Research Scientist,No,2614,3,Married,1,1,0.263,Low,EMP1761,<3K,R&D,2-3y
+37,Research & Development,Research Scientist,No,5886,0,Married,2,0,0.14,Low,EMP1762,3-6K,R&D,0-1y
+23,Research & Development,Research Director,No,4854,12,Married,1,0,0.129,Low,EMP1763,3-6K,R&D,10y+
+27,Sales,Manager,Yes,1920,0,Married,3,0,0.5,Medium,EMP1764,<3K,Sales,0-1y
+30,Research & Development,Manufacturing Director,No,7181,3,Divorced,3,0,0.132,Low,EMP1765,6-10K,R&D,2-3y
+44,Research & Development,Laboratory Technician,No,9236,8,Married,3,0,0.07,Low,EMP1766,6-10K,R&D,6-10y
+33,Research & Development,Healthcare Representative,Yes,19999,2,Married,4,0,0.149,Low,EMP1767,10K+,R&D,2-3y
+32,Research & Development,Manufacturing Director,No,4380,7,Single,2,1,0.224,Low,EMP1768,3-6K,R&D,6-10y
+54,Research & Development,Research Director,No,4038,5,Divorced,2,0,0.126,Low,EMP1769,3-6K,R&D,4-5y
+40,Research & Development,Research Scientist,No,2950,0,Single,2,0,0.267,Low,EMP1770,<3K,R&D,0-1y
+40,Research & Development,Research Director,No,6092,5,Married,4,0,0.151,Low,EMP1771,6-10K,R&D,4-5y
+33,Research & Development,Research Director,No,6070,2,Divorced,3,0,0.1,Low,EMP1772,6-10K,R&D,2-3y
+31,Sales,Sales Executive,No,3476,1,Single,1,1,0.261,Low,EMP1773,3-6K,Sales,0-1y
+18,Research & Development,Healthcare Representative,No,4933,5,Single,3,1,0.303,Medium,EMP1774,3-6K,R&D,4-5y
+45,Sales,Sales Executive,No,1829,10,Married,3,0,0.043,Low,EMP1775,<3K,Sales,6-10y
+41,Research & Development,Research Scientist,Yes,9040,9,Married,1,1,0.221,Low,EMP1776,6-10K,R&D,6-10y
+35,Research & Development,Research Scientist,Yes,3555,7,Divorced,3,0,0.224,Low,EMP1777,3-6K,R&D,6-10y
+35,Sales,Manager,No,5329,4,Divorced,3,0,0.077,Low,EMP1778,3-6K,Sales,4-5y
+43,Sales,Sales Executive,Yes,2478,5,Married,1,0,0.302,Medium,EMP1779,<3K,Sales,4-5y
+23,Research & Development,Healthcare Representative,Yes,3943,5,Divorced,1,1,0.517,Medium,EMP1780,3-6K,R&D,4-5y
+31,Sales,Sales Representative,Yes,4657,3,Married,3,1,0.631,High,EMP1781,3-6K,Sales,2-3y
+26,Research & Development,Healthcare Representative,No,5398,5,Divorced,3,0,0.139,Low,EMP1782,3-6K,R&D,4-5y
+52,Research & Development,Research Director,Yes,7071,0,Single,3,0,0.411,Medium,EMP1783,6-10K,R&D,0-1y
+44,Human Resources,Human Resources,No,11985,8,Married,2,0,0.089,Low,EMP1784,10K+,HR,6-10y
+18,Research & Development,Research Director,No,8127,1,Single,3,0,0.228,Low,EMP1785,6-10K,R&D,0-1y
+23,Sales,Sales Executive,No,9220,2,Single,4,1,0.226,Low,EMP1786,6-10K,Sales,2-3y
+35,Research & Development,Manufacturing Director,No,12032,15,Married,1,0,0.066,Low,EMP1787,10K+,R&D,10y+
+32,Sales,Sales Representative,No,7430,4,Single,3,0,0.345,Medium,EMP1788,6-10K,Sales,4-5y
+25,Research & Development,Healthcare Representative,No,5323,0,Married,1,0,0.243,Low,EMP1789,3-6K,R&D,0-1y
+54,Research & Development,Healthcare Representative,No,9461,0,Married,1,0,0.1,Low,EMP1790,6-10K,R&D,0-1y
+39,Research & Development,Research Director,No,9800,0,Single,4,0,0.114,Low,EMP1791,6-10K,R&D,0-1y
+41,Research & Development,Manufacturing Director,Yes,7759,0,Married,1,1,0.381,Medium,EMP1792,6-10K,R&D,0-1y
+30,Research & Development,Research Director,No,2440,3,Married,3,0,0.204,Low,EMP1793,<3K,R&D,2-3y
+43,Research & Development,Research Scientist,Yes,3419,3,Divorced,3,0,0.269,Low,EMP1794,3-6K,R&D,2-3y
+33,Research & Development,Research Scientist,No,4669,2,Single,4,0,0.149,Low,EMP1795,3-6K,R&D,2-3y
+34,Research & Development,Research Scientist,No,8339,2,Divorced,3,0,0.11,Low,EMP1796,6-10K,R&D,2-3y
+42,Research & Development,Manufacturing Director,Yes,5368,13,Divorced,3,0,0.118,Low,EMP1797,3-6K,R&D,10y+
+22,Sales,Manager,No,10150,5,Married,4,0,0.037,Low,EMP1798,10K+,Sales,4-5y
+51,Sales,Manager,Yes,11196,3,Married,4,1,0.132,Low,EMP1799,10K+,Sales,2-3y
+38,Sales,Sales Executive,No,10504,1,Married,3,0,0.154,Low,EMP1800,10K+,Sales,0-1y
+48,Research & Development,Research Scientist,No,10541,0,Divorced,1,0,0.101,Low,EMP1801,10K+,R&D,0-1y
+27,Sales,Manager,Yes,3070,0,Single,1,1,0.812,High,EMP1802,3-6K,Sales,0-1y
+28,Research & Development,Manufacturing Director,Yes,7082,5,Divorced,2,0,0.294,Low,EMP1803,6-10K,R&D,4-5y
+26,Research & Development,Research Scientist,No,3888,0,Divorced,3,0,0.21,Low,EMP1804,3-6K,R&D,0-1y
+39,Research & Development,Research Director,No,2192,4,Married,3,0,0.121,Low,EMP1805,<3K,R&D,4-5y
+37,Sales,Sales Representative,No,4637,9,Married,4,0,0.12,Low,EMP1806,3-6K,Sales,6-10y
+32,Research & Development,Research Director,No,11255,2,Married,1,1,0.144,Low,EMP1807,10K+,R&D,2-3y
+27,Research & Development,Research Director,No,6998,31,Married,1,0,0.051,Low,EMP1808,6-10K,R&D,10y+
+25,Human Resources,Manager,Yes,16478,2,Divorced,1,1,0.319,Medium,EMP1809,10K+,HR,2-3y
+36,Research & Development,Manufacturing Director,No,5987,2,Single,3,0,0.203,Low,EMP1810,3-6K,R&D,2-3y
+32,Research & Development,Healthcare Representative,No,19999,22,Single,3,0,0.09,Low,EMP1811,10K+,R&D,10y+
+30,Human Resources,Manager,Yes,5988,2,Married,1,0,0.478,Medium,EMP1812,3-6K,HR,2-3y
+50,Research & Development,Research Scientist,No,5499,2,Divorced,4,0,0.038,Low,EMP1813,3-6K,R&D,2-3y
+36,Research & Development,Laboratory Technician,Yes,2687,7,Married,2,0,0.482,Medium,EMP1814,<3K,R&D,6-10y
+48,Sales,Sales Executive,No,10004,8,Divorced,3,0,0.088,Low,EMP1815,10K+,Sales,6-10y
+32,Sales,Sales Representative,No,4120,6,Married,4,1,0.155,Low,EMP1816,3-6K,Sales,6-10y
+39,Research & Development,Manufacturing Director,No,3805,3,Single,1,0,0.265,Low,EMP1817,3-6K,R&D,2-3y
+36,Research & Development,Laboratory Technician,No,10989,1,Divorced,4,1,0.105,Low,EMP1818,10K+,R&D,0-1y
+21,Research & Development,Manufacturing Director,No,10270,0,Married,4,0,0.151,Low,EMP1819,10K+,R&D,0-1y
+49,Research & Development,Laboratory Technician,Yes,10123,0,Married,4,0,0.268,Low,EMP1820,10K+,R&D,0-1y
+35,Research & Development,Manufacturing Director,Yes,4450,4,Single,1,0,0.58,Medium,EMP1821,3-6K,R&D,4-5y
+43,Research & Development,Manufacturing Director,No,5281,7,Single,2,0,0.202,Low,EMP1822,3-6K,R&D,6-10y
+30,Sales,Sales Representative,No,5255,4,Single,1,1,0.447,Medium,EMP1823,3-6K,Sales,4-5y
+35,Sales,Sales Representative,No,8353,0,Married,2,0,0.3,Low,EMP1824,6-10K,Sales,0-1y
+29,Research & Development,Manufacturing Director,No,12764,1,Married,4,0,0.165,Low,EMP1825,10K+,R&D,0-1y
+48,Research & Development,Healthcare Representative,Yes,6650,2,Single,4,0,0.352,Medium,EMP1826,6-10K,R&D,2-3y
+39,Research & Development,Healthcare Representative,Yes,16093,0,Single,4,0,0.246,Low,EMP1827,10K+,R&D,0-1y
+40,Sales,Manager,Yes,8896,2,Single,2,0,0.405,Medium,EMP1828,6-10K,Sales,2-3y
+49,Research & Development,Research Scientist,No,4773,5,Married,4,0,0.037,Low,EMP1829,3-6K,R&D,4-5y
+47,Research & Development,Manufacturing Director,No,8568,10,Divorced,4,0,0.054,Low,EMP1830,6-10K,R&D,6-10y
+43,Research & Development,Research Scientist,No,13880,11,Married,4,0,0.051,Low,EMP1831,10K+,R&D,10y+
+24,Research & Development,Manufacturing Director,Yes,16302,11,Single,4,1,0.196,Low,EMP1832,10K+,R&D,10y+
+30,Sales,Sales Executive,Yes,10433,0,Married,3,1,0.319,Medium,EMP1833,10K+,Sales,0-1y
+27,Sales,Sales Representative,No,5508,14,Divorced,1,0,0.183,Low,EMP1834,3-6K,Sales,10y+
+43,Research & Development,Laboratory Technician,No,4821,5,Divorced,2,0,0.148,Low,EMP1835,3-6K,R&D,4-5y
+38,Sales,Sales Representative,No,7456,17,Divorced,4,0,0.161,Low,EMP1836,6-10K,Sales,10y+
+24,Human Resources,Manager,No,13638,0,Divorced,2,0,0.11,Low,EMP1837,10K+,HR,0-1y
+35,Research & Development,Research Director,No,6895,0,Married,1,0,0.134,Low,EMP1838,6-10K,R&D,0-1y
+23,Research & Development,Manufacturing Director,No,6974,21,Divorced,4,0,0.01,Low,EMP1839,6-10K,R&D,10y+
+36,Research & Development,Laboratory Technician,No,5587,5,Single,2,0,0.313,Medium,EMP1840,3-6K,R&D,4-5y
+22,Sales,Sales Executive,No,4535,7,Divorced,4,1,0.121,Low,EMP1841,3-6K,Sales,6-10y
+41,Research & Development,Laboratory Technician,No,4968,8,Divorced,2,0,0.102,Low,EMP1842,3-6K,R&D,6-10y
+40,Research & Development,Healthcare Representative,No,5851,0,Divorced,2,0,0.123,Low,EMP1843,3-6K,R&D,0-1y
+54,Research & Development,Research Director,Yes,13974,1,Married,2,0,0.142,Low,EMP1844,10K+,R&D,0-1y
+44,Sales,Sales Representative,No,4760,0,Divorced,2,1,0.273,Low,EMP1845,3-6K,Sales,0-1y
+33,Research & Development,Laboratory Technician,Yes,5591,21,Single,2,1,0.473,Medium,EMP1846,3-6K,R&D,10y+
+44,Sales,Sales Executive,No,3374,2,Married,2,0,0.146,Low,EMP1847,3-6K,Sales,2-3y
+24,Research & Development,Research Director,No,8055,0,Married,4,0,0.141,Low,EMP1848,6-10K,R&D,0-1y
+28,Human Resources,Human Resources,No,11518,0,Married,2,0,0.12,Low,EMP1849,10K+,HR,0-1y
+39,Research & Development,Laboratory Technician,No,13272,1,Married,2,0,0.091,Low,EMP1850,10K+,R&D,0-1y
+18,Research & Development,Laboratory Technician,No,6074,1,Married,4,1,0.3,Low,EMP1851,6-10K,R&D,0-1y
+36,Sales,Sales Executive,Yes,7449,11,Single,2,0,0.376,Medium,EMP1852,6-10K,Sales,10y+
+27,Sales,Sales Representative,Yes,4991,0,Married,1,1,0.841,High,EMP1853,3-6K,Sales,0-1y
+37,Research & Development,Research Director,Yes,7261,5,Married,1,1,0.391,Medium,EMP1854,6-10K,R&D,4-5y
+27,Research & Development,Research Scientist,No,6455,2,Married,2,0,0.172,Low,EMP1855,6-10K,R&D,2-3y
+40,Sales,Manager,No,5608,0,Married,3,0,0.152,Low,EMP1856,3-6K,Sales,0-1y
+37,Sales,Sales Executive,Yes,5859,1,Single,4,1,0.467,Medium,EMP1857,3-6K,Sales,0-1y
+49,Research & Development,Laboratory Technician,No,6964,10,Divorced,1,0,0.097,Low,EMP1858,6-10K,R&D,6-10y
+37,Research & Development,Laboratory Technician,No,4620,1,Married,3,0,0.162,Low,EMP1859,3-6K,R&D,0-1y
+30,Sales,Manager,No,4753,3,Single,2,1,0.251,Low,EMP1860,3-6K,Sales,2-3y
+34,Sales,Sales Representative,No,13891,10,Married,2,0,0.163,Low,EMP1861,10K+,Sales,6-10y
+24,Sales,Manager,Yes,19999,2,Married,2,0,0.26,Low,EMP1862,10K+,Sales,2-3y
+40,Research & Development,Laboratory Technician,No,2800,23,Married,2,0,0.088,Low,EMP1863,<3K,R&D,10y+
+42,Research & Development,Laboratory Technician,No,2717,5,Single,1,0,0.275,Low,EMP1864,<3K,R&D,4-5y
+59,Sales,Manager,Yes,3208,2,Single,1,0,0.447,Medium,EMP1865,3-6K,Sales,2-3y
+31,Sales,Sales Executive,No,5131,8,Single,3,0,0.175,Low,EMP1866,3-6K,Sales,6-10y
+34,Sales,Sales Executive,No,8889,3,Single,1,0,0.171,Low,EMP1867,6-10K,Sales,2-3y
+31,Research & Development,Manufacturing Director,No,7519,3,Single,2,0,0.211,Low,EMP1868,6-10K,R&D,2-3y
+38,Research & Development,Healthcare Representative,No,5970,4,Divorced,1,0,0.171,Low,EMP1869,3-6K,R&D,4-5y
+40,Sales,Sales Executive,No,7265,2,Married,1,0,0.082,Low,EMP1870,6-10K,Sales,2-3y
+36,Research & Development,Manufacturing Director,No,3712,3,Married,1,0,0.123,Low,EMP1871,3-6K,R&D,2-3y
+46,Human Resources,Manager,No,4749,7,Married,2,0,0.082,Low,EMP1872,3-6K,HR,6-10y
+31,Research & Development,Manufacturing Director,No,5371,6,Married,1,0,0.234,Low,EMP1873,3-6K,R&D,6-10y
+45,Sales,Sales Representative,Yes,2272,0,Single,1,0,0.87,High,EMP1874,<3K,Sales,0-1y
+41,Sales,Sales Executive,Yes,2867,2,Single,2,0,0.574,Medium,EMP1875,<3K,Sales,2-3y
+36,Research & Development,Manufacturing Director,Yes,2931,1,Single,2,0,0.641,High,EMP1876,<3K,R&D,0-1y
+34,Research & Development,Research Director,No,8268,1,Married,1,0,0.134,Low,EMP1877,6-10K,R&D,0-1y
+58,Research & Development,Healthcare Representative,No,6216,2,Married,1,0,0.092,Low,EMP1878,6-10K,R&D,2-3y
+29,Research & Development,Research Director,No,7601,6,Married,4,0,0.075,Low,EMP1879,6-10K,R&D,6-10y
+39,Research & Development,Laboratory Technician,No,1974,1,Married,3,0,0.2,Low,EMP1880,<3K,R&D,0-1y
+30,Research & Development,Laboratory Technician,Yes,2401,1,Divorced,1,0,0.682,High,EMP1881,<3K,R&D,0-1y
+53,Sales,Sales Representative,No,7822,8,Single,2,0,0.182,Low,EMP1882,6-10K,Sales,6-10y
+44,Research & Development,Laboratory Technician,No,1178,1,Married,2,0,0.259,Low,EMP1883,<3K,R&D,0-1y
+30,Research & Development,Manufacturing Director,No,10652,1,Married,4,0,0.105,Low,EMP1884,10K+,R&D,0-1y
+41,Research & Development,Research Director,No,1992,1,Married,4,1,0.158,Low,EMP1885,<3K,R&D,0-1y
+39,Research & Development,Research Scientist,No,8637,0,Married,4,0,0.117,Low,EMP1886,6-10K,R&D,0-1y
+32,Research & Development,Manufacturing Director,No,3331,7,Married,1,0,0.149,Low,EMP1887,3-6K,R&D,6-10y
+43,Research & Development,Healthcare Representative,No,9671,21,Single,2,0,0.031,Low,EMP1888,6-10K,R&D,10y+
+40,Sales,Sales Executive,No,19999,0,Married,2,0,0.053,Low,EMP1889,10K+,Sales,0-1y
+38,Research & Development,Research Director,Yes,1555,1,Divorced,3,1,0.342,Medium,EMP1890,<3K,R&D,0-1y
+36,Human Resources,Human Resources,Yes,7962,1,Married,4,1,0.272,Low,EMP1891,6-10K,HR,0-1y
+40,Research & Development,Research Director,No,2009,0,Divorced,2,0,0.17,Low,EMP1892,<3K,R&D,0-1y
+39,Research & Development,Healthcare Representative,Yes,6868,3,Married,3,0,0.351,Medium,EMP1893,6-10K,R&D,2-3y
+37,Sales,Sales Executive,Yes,4847,11,Married,2,1,0.266,Low,EMP1894,3-6K,Sales,10y+
+31,Sales,Manager,No,5833,0,Married,1,0,0.168,Low,EMP1895,3-6K,Sales,0-1y
+52,Research & Development,Laboratory Technician,Yes,3289,9,Married,2,0,0.24,Low,EMP1896,3-6K,R&D,6-10y
+27,Research & Development,Manufacturing Director,No,8343,1,Divorced,3,0,0.135,Low,EMP1897,6-10K,R&D,0-1y
+40,Research & Development,Research Director,No,2448,11,Single,2,0,0.173,Low,EMP1898,<3K,R&D,10y+
+34,Research & Development,Research Director,No,10752,2,Married,3,0,0.091,Low,EMP1899,10K+,R&D,2-3y
+52,Research & Development,Research Director,No,4336,1,Married,3,0,0.11,Low,EMP1900,3-6K,R&D,0-1y
+28,Research & Development,Manufacturing Director,No,2511,0,Divorced,2,1,0.216,Low,EMP1901,<3K,R&D,0-1y
+30,Research & Development,Manufacturing Director,No,13058,0,Married,4,0,0.126,Low,EMP1902,10K+,R&D,0-1y
+28,Research & Development,Research Scientist,Yes,5234,6,Divorced,1,0,0.375,Medium,EMP1903,3-6K,R&D,6-10y
+39,Human Resources,Manager,No,15509,11,Divorced,4,0,0.107,Low,EMP1904,10K+,HR,10y+
+24,Sales,Sales Representative,No,10633,3,Married,1,0,0.285,Low,EMP1905,10K+,Sales,2-3y
+32,Research & Development,Healthcare Representative,Yes,3501,4,Divorced,2,0,0.45,Medium,EMP1906,3-6K,R&D,4-5y
+18,Research & Development,Research Scientist,No,5183,0,Divorced,4,0,0.185,Low,EMP1907,3-6K,R&D,0-1y
+39,Research & Development,Healthcare Representative,No,5805,8,Single,3,0,0.122,Low,EMP1908,3-6K,R&D,6-10y
+32,Research & Development,Research Scientist,No,12575,3,Married,2,0,0.096,Low,EMP1909,10K+,R&D,2-3y
+23,Sales,Manager,No,6909,13,Single,4,0,0.133,Low,EMP1910,6-10K,Sales,10y+
+46,Sales,Sales Executive,Yes,5984,4,Married,1,1,0.322,Medium,EMP1911,3-6K,Sales,4-5y
+25,Sales,Sales Executive,No,4866,3,Single,3,1,0.297,Low,EMP1912,3-6K,Sales,2-3y
+44,Human Resources,Human Resources,Yes,5282,0,Married,3,0,0.367,Medium,EMP1913,3-6K,HR,0-1y
+30,Human Resources,Human Resources,Yes,11131,9,Married,1,0,0.296,Low,EMP1914,10K+,HR,6-10y
+51,Human Resources,Manager,Yes,5442,5,Married,4,0,0.24,Low,EMP1915,3-6K,HR,4-5y
+43,Research & Development,Research Scientist,No,4371,5,Single,4,0,0.128,Low,EMP1916,3-6K,R&D,4-5y
+27,Research & Development,Laboratory Technician,No,3981,11,Married,1,0,0.251,Low,EMP1917,3-6K,R&D,10y+
+28,Research & Development,Research Scientist,No,4005,0,Married,1,0,0.256,Low,EMP1918,3-6K,R&D,0-1y
+42,Research & Development,Manufacturing Director,Yes,2512,8,Married,1,0,0.297,Low,EMP1919,<3K,R&D,6-10y
+34,Research & Development,Manufacturing Director,Yes,3594,0,Single,2,1,0.67,High,EMP1920,3-6K,R&D,0-1y
+35,Sales,Sales Representative,No,12383,0,Single,2,0,0.383,Medium,EMP1921,10K+,Sales,0-1y
+48,Research & Development,Research Scientist,Yes,4848,11,Married,3,0,0.157,Low,EMP1922,3-6K,R&D,10y+
+30,Research & Development,Healthcare Representative,No,8001,13,Divorced,3,0,0.088,Low,EMP1923,6-10K,R&D,10y+
+37,Research & Development,Healthcare Representative,No,1389,0,Single,1,1,0.366,Medium,EMP1924,<3K,R&D,0-1y
+45,Research & Development,Healthcare Representative,No,7424,1,Married,2,0,0.104,Low,EMP1925,6-10K,R&D,0-1y
+44,Research & Development,Manufacturing Director,No,4970,2,Single,4,0,0.021,Low,EMP1926,3-6K,R&D,2-3y
+35,Sales,Manager,Yes,4168,9,Married,4,1,0.293,Low,EMP1927,3-6K,Sales,6-10y
+34,Research & Development,Research Scientist,Yes,6000,8,Single,2,0,0.434,Medium,EMP1928,3-6K,R&D,6-10y
+21,Sales,Manager,No,4135,1,Married,1,1,0.238,Low,EMP1929,3-6K,Sales,0-1y
+27,Research & Development,Laboratory Technician,No,1688,7,Married,1,1,0.24,Low,EMP1930,<3K,R&D,6-10y
+39,Research & Development,Laboratory Technician,No,9020,0,Single,2,0,0.282,Low,EMP1931,6-10K,R&D,0-1y
+35,Research & Development,Research Director,Yes,6208,1,Married,2,1,0.38,Medium,EMP1932,6-10K,R&D,0-1y
+37,Sales,Sales Representative,No,4570,3,Married,2,0,0.24,Low,EMP1933,3-6K,Sales,2-3y
+46,Sales,Sales Representative,No,3192,3,Married,1,0,0.232,Low,EMP1934,3-6K,Sales,2-3y
+26,Research & Development,Healthcare Representative,No,2420,2,Divorced,2,0,0.233,Low,EMP1935,<3K,R&D,2-3y
+34,Sales,Manager,Yes,6143,0,Married,2,1,0.514,Medium,EMP1936,6-10K,Sales,0-1y
+38,Research & Development,Research Scientist,No,13192,8,Divorced,2,0,0.101,Low,EMP1937,10K+,R&D,6-10y
+30,Sales,Sales Executive,Yes,6073,1,Married,1,0,0.551,Medium,EMP1938,6-10K,Sales,0-1y
+49,Research & Development,Laboratory Technician,No,2538,7,Single,4,0,0.143,Low,EMP1939,<3K,R&D,6-10y
+45,Research & Development,Research Director,No,6147,6,Single,2,0,0.14,Low,EMP1940,6-10K,R&D,6-10y
+39,Sales,Sales Executive,No,5274,2,Married,2,0,0.147,Low,EMP1941,3-6K,Sales,2-3y
+53,Research & Development,Manufacturing Director,No,8736,3,Married,4,0,0.03,Low,EMP1942,6-10K,R&D,2-3y
+23,Research & Development,Manufacturing Director,No,7583,3,Divorced,3,0,0.132,Low,EMP1943,6-10K,R&D,2-3y
+36,Research & Development,Laboratory Technician,Yes,1051,23,Married,1,0,0.309,Medium,EMP1944,<3K,R&D,10y+
+40,Research & Development,Manufacturing Director,Yes,7331,2,Married,1,0,0.411,Medium,EMP1945,6-10K,R&D,2-3y
+28,Sales,Sales Executive,No,3127,11,Married,1,0,0.139,Low,EMP1946,3-6K,Sales,10y+
+39,Sales,Sales Executive,No,2485,7,Married,3,0,0.05,Low,EMP1947,<3K,Sales,6-10y
+27,Sales,Sales Executive,Yes,4896,5,Married,2,0,0.412,Medium,EMP1948,3-6K,Sales,4-5y
+43,Research & Development,Research Director,Yes,6809,0,Single,2,1,0.446,Medium,EMP1949,6-10K,R&D,0-1y
+46,Research & Development,Manufacturing Director,No,2203,2,Single,3,0,0.175,Low,EMP1950,<3K,R&D,2-3y
+39,Research & Development,Research Director,Yes,8002,12,Single,3,1,0.273,Low,EMP1951,6-10K,R&D,10y+
+20,Research & Development,Manufacturing Director,Yes,8265,6,Single,1,1,0.642,High,EMP1952,6-10K,R&D,6-10y
+28,Research & Development,Research Scientist,No,5573,10,Married,1,0,0.138,Low,EMP1953,3-6K,R&D,6-10y
+42,Sales,Sales Representative,No,3370,2,Single,4,0,0.331,Medium,EMP1954,3-6K,Sales,2-3y
+37,Sales,Manager,No,3169,0,Single,4,0,0.214,Low,EMP1955,3-6K,Sales,0-1y
+18,Sales,Sales Representative,No,9549,9,Divorced,4,0,0.149,Low,EMP1956,6-10K,Sales,6-10y
+48,Research & Development,Laboratory Technician,Yes,2365,3,Divorced,4,0,0.347,Medium,EMP1957,<3K,R&D,2-3y
+38,Research & Development,Research Scientist,No,9754,1,Married,2,0,0.131,Low,EMP1958,6-10K,R&D,0-1y
+29,Research & Development,Research Director,No,4959,3,Married,4,0,0.187,Low,EMP1959,3-6K,R&D,2-3y
+45,Research & Development,Manufacturing Director,No,5152,2,Married,4,0,0.074,Low,EMP1960,3-6K,R&D,2-3y
+30,Research & Development,Research Director,Yes,2122,1,Single,4,1,0.62,High,EMP1961,<3K,R&D,0-1y
+30,Research & Development,Manufacturing Director,Yes,5010,2,Married,1,1,0.54,Medium,EMP1962,3-6K,R&D,2-3y
+40,Research & Development,Laboratory Technician,Yes,7611,0,Single,1,1,0.743,High,EMP1963,6-10K,R&D,0-1y
+53,Human Resources,Manager,No,2604,14,Married,2,0,0.101,Low,EMP1964,<3K,HR,10y+
+51,Research & Development,Healthcare Representative,No,7145,0,Divorced,3,0,0.132,Low,EMP1965,6-10K,R&D,0-1y
+40,Human Resources,Manager,No,5704,4,Married,4,0,0.14,Low,EMP1966,3-6K,HR,4-5y
+41,Research & Development,Research Director,No,3812,9,Divorced,2,0,0.109,Low,EMP1967,3-6K,R&D,6-10y
+44,Research & Development,Laboratory Technician,No,8691,7,Married,4,0,0.18,Low,EMP1968,6-10K,R&D,6-10y
+25,Research & Development,Research Director,No,1617,2,Married,4,0,0.146,Low,EMP1969,<3K,R&D,2-3y
+42,Research & Development,Research Scientist,Yes,6572,6,Married,4,0,0.281,Low,EMP1970,6-10K,R&D,6-10y
+30,Research & Development,Research Director,No,13235,2,Married,1,0,0.162,Low,EMP1971,10K+,R&D,2-3y
+39,Research & Development,Laboratory Technician,No,11991,2,Married,1,0,0.222,Low,EMP1972,10K+,R&D,2-3y
+34,Sales,Sales Representative,Yes,6730,1,Single,1,0,0.897,High,EMP1973,6-10K,Sales,0-1y
+41,Research & Development,Healthcare Representative,No,4601,0,Married,3,0,0.157,Low,EMP1974,3-6K,R&D,0-1y
+38,Research & Development,Laboratory Technician,No,3828,3,Single,3,1,0.343,Medium,EMP1975,3-6K,R&D,2-3y
+18,Research & Development,Laboratory Technician,Yes,4598,4,Married,2,0,0.673,High,EMP1976,3-6K,R&D,4-5y
+38,Research & Development,Research Director,No,7325,3,Single,1,0,0.205,Low,EMP1977,6-10K,R&D,2-3y
+42,Research & Development,Laboratory Technician,Yes,3484,1,Married,3,0,0.398,Medium,EMP1978,3-6K,R&D,0-1y
+41,Research & Development,Healthcare Representative,Yes,8238,1,Single,3,1,0.419,Medium,EMP1979,6-10K,R&D,0-1y
+36,Human Resources,Manager,Yes,17557,0,Single,2,1,0.358,Medium,EMP1980,10K+,HR,0-1y
+51,Sales,Sales Representative,No,5249,5,Married,2,0,0.152,Low,EMP1981,3-6K,Sales,4-5y
+39,Sales,Sales Representative,No,2593,14,Single,3,0,0.332,Medium,EMP1982,<3K,Sales,10y+
+40,Research & Development,Manufacturing Director,Yes,2592,6,Divorced,3,0,0.354,Medium,EMP1983,<3K,R&D,6-10y
+46,Research & Development,Healthcare Representative,No,8325,9,Married,3,0,0.01,Low,EMP1984,6-10K,R&D,6-10y
+40,Sales,Sales Representative,Yes,5256,1,Married,4,0,0.546,Medium,EMP1985,3-6K,Sales,0-1y
+28,Research & Development,Manufacturing Director,Yes,8797,4,Single,2,1,0.574,Medium,EMP1986,6-10K,R&D,4-5y
+18,Research & Development,Laboratory Technician,No,4050,0,Divorced,3,1,0.341,Medium,EMP1987,3-6K,R&D,0-1y
+32,Research & Development,Healthcare Representative,No,8577,4,Married,4,0,0.099,Low,EMP1988,6-10K,R&D,4-5y
+43,Sales,Manager,No,4978,15,Married,1,0,0.08,Low,EMP1989,3-6K,Sales,10y+
+33,Research & Development,Healthcare Representative,No,3630,2,Single,2,0,0.209,Low,EMP1990,3-6K,R&D,2-3y
+44,Sales,Sales Executive,No,4356,2,Married,1,0,0.095,Low,EMP1991,3-6K,Sales,2-3y
+38,Sales,Manager,Yes,2811,3,Divorced,2,0,0.398,Medium,EMP1992,<3K,Sales,2-3y
+48,Research & Development,Healthcare Representative,Yes,16222,6,Married,1,0,0.166,Low,EMP1993,10K+,R&D,6-10y
+34,Sales,Sales Executive,No,5151,0,Single,3,0,0.204,Low,EMP1994,3-6K,Sales,0-1y
+41,Research & Development,Research Director,No,7742,4,Single,1,0,0.149,Low,EMP1995,6-10K,R&D,4-5y
+41,Research & Development,Manufacturing Director,No,4042,8,Single,3,0,0.127,Low,EMP1996,3-6K,R&D,6-10y
+50,Research & Development,Manufacturing Director,No,3045,2,Married,3,0,0.129,Low,EMP1997,3-6K,R&D,2-3y
+21,Human Resources,Manager,No,4776,3,Divorced,4,0,0.153,Low,EMP1998,3-6K,HR,2-3y
+32,Research & Development,Manufacturing Director,No,9953,11,Divorced,2,0,0.143,Low,EMP1999,6-10K,R&D,10y+
+44,Research & Development,Manufacturing Director,No,4078,4,Divorced,2,0,0.08,Low,EMP2000,3-6K,R&D,4-5y
+50,Research & Development,Research Scientist,Yes,3365,0,Single,1,1,0.554,Medium,EMP2001,3-6K,R&D,0-1y
+39,Research & Development,Research Director,Yes,5916,6,Divorced,3,0,0.238,Low,EMP2002,3-6K,R&D,6-10y
+34,Research & Development,Research Director,Yes,7147,1,Married,1,0,0.47,Medium,EMP2003,6-10K,R&D,0-1y
+43,Research & Development,Laboratory Technician,Yes,13407,3,Married,1,1,0.339,Medium,EMP2004,10K+,R&D,2-3y
+44,Research & Development,Healthcare Representative,No,6598,5,Married,4,0,0.147,Low,EMP2005,6-10K,R&D,4-5y
+33,Sales,Sales Executive,No,7740,2,Single,3,0,0.122,Low,EMP2006,6-10K,Sales,2-3y
+39,Research & Development,Research Scientist,No,8067,1,Divorced,1,0,0.207,Low,EMP2007,6-10K,R&D,0-1y
+47,Sales,Manager,No,2880,12,Divorced,3,0,0.065,Low,EMP2008,<3K,Sales,10y+
+54,Research & Development,Laboratory Technician,Yes,3197,5,Married,2,0,0.37,Medium,EMP2009,3-6K,R&D,4-5y
+43,Sales,Sales Representative,No,2992,3,Divorced,1,0,0.337,Medium,EMP2010,<3K,Sales,2-3y
+37,Research & Development,Research Scientist,No,2610,2,Married,2,0,0.19,Low,EMP2011,<3K,R&D,2-3y
+36,Research & Development,Healthcare Representative,Yes,8412,11,Single,4,0,0.228,Low,EMP2012,6-10K,R&D,10y+
+42,Human Resources,Human Resources,No,6371,4,Divorced,1,0,0.141,Low,EMP2013,6-10K,HR,4-5y
+35,Research & Development,Manufacturing Director,No,5674,16,Married,2,0,0.143,Low,EMP2014,3-6K,R&D,10y+
+38,Research & Development,Research Director,Yes,1305,2,Divorced,4,0,0.306,Medium,EMP2015,<3K,R&D,2-3y
+27,Sales,Sales Representative,No,16823,8,Single,2,0,0.329,Medium,EMP2016,10K+,Sales,6-10y
+48,Sales,Manager,No,3321,7,Single,1,0,0.171,Low,EMP2017,3-6K,Sales,6-10y
+26,Research & Development,Laboratory Technician,No,16789,3,Married,2,0,0.14,Low,EMP2018,10K+,R&D,2-3y
+33,Research & Development,Research Scientist,Yes,2447,5,Married,3,0,0.324,Medium,EMP2019,<3K,R&D,4-5y
+37,Sales,Manager,No,3474,12,Divorced,4,0,0.058,Low,EMP2020,3-6K,Sales,10y+
+54,Sales,Manager,No,1617,1,Divorced,3,0,0.016,Low,EMP2021,<3K,Sales,0-1y
+33,Human Resources,Manager,Yes,6628,0,Single,1,1,0.656,High,EMP2022,6-10K,HR,0-1y
+31,Research & Development,Research Scientist,No,2964,2,Married,4,0,0.125,Low,EMP2023,<3K,R&D,2-3y
+32,Sales,Sales Executive,No,3010,0,Single,4,0,0.192,Low,EMP2024,3-6K,Sales,0-1y
+51,Research & Development,Research Director,No,2553,1,Single,3,0,0.186,Low,EMP2025,<3K,R&D,0-1y
+18,Sales,Manager,Yes,8329,13,Married,4,0,0.229,Low,EMP2026,6-10K,Sales,10y+
+27,Research & Development,Research Scientist,No,8032,2,Married,4,0,0.094,Low,EMP2027,6-10K,R&D,2-3y
+60,Sales,Sales Representative,Yes,14714,0,Married,1,0,0.329,Medium,EMP2028,10K+,Sales,0-1y
+42,Research & Development,Healthcare Representative,Yes,3725,4,Married,2,0,0.34,Medium,EMP2029,3-6K,R&D,4-5y
+27,Research & Development,Manufacturing Director,Yes,6126,0,Married,3,1,0.454,Medium,EMP2030,6-10K,R&D,0-1y
+36,Sales,Manager,No,2672,1,Divorced,2,0,0.14,Low,EMP2031,<3K,Sales,0-1y
+37,Research & Development,Laboratory Technician,No,4517,2,Single,3,1,0.305,Medium,EMP2032,3-6K,R&D,2-3y
+44,Sales,Sales Executive,No,4083,5,Married,3,0,0.087,Low,EMP2033,3-6K,Sales,4-5y
+53,Research & Development,Laboratory Technician,No,7012,11,Married,1,0,0.043,Low,EMP2034,6-10K,R&D,10y+
+40,Research & Development,Healthcare Representative,No,9502,0,Married,3,0,0.089,Low,EMP2035,6-10K,R&D,0-1y
+32,Research & Development,Healthcare Representative,No,9368,2,Divorced,1,1,0.173,Low,EMP2036,6-10K,R&D,2-3y
+44,Research & Development,Research Director,No,3416,0,Single,3,0,0.215,Low,EMP2037,3-6K,R&D,0-1y
+30,Research & Development,Manufacturing Director,No,9406,6,Married,2,0,0.101,Low,EMP2038,6-10K,R&D,6-10y
+27,Research & Development,Laboratory Technician,Yes,5301,3,Divorced,1,0,0.71,High,EMP2039,3-6K,R&D,2-3y
+21,Research & Development,Manufacturing Director,No,4543,1,Married,4,0,0.136,Low,EMP2040,3-6K,R&D,0-1y
+22,Sales,Sales Executive,No,3678,0,Married,2,0,0.21,Low,EMP2041,3-6K,Sales,0-1y
+28,Sales,Manager,No,3991,5,Divorced,1,0,0.172,Low,EMP2042,3-6K,Sales,4-5y
+26,Sales,Manager,No,14161,2,Single,2,0,0.256,Low,EMP2043,10K+,Sales,2-3y
+39,Research & Development,Research Director,No,6432,6,Married,4,0,0.082,Low,EMP2044,6-10K,R&D,6-10y
+26,Research & Development,Research Scientist,No,5979,3,Divorced,1,0,0.185,Low,EMP2045,3-6K,R&D,2-3y
+18,Research & Development,Research Scientist,No,4702,2,Single,2,0,0.429,Medium,EMP2046,3-6K,R&D,2-3y
+27,Sales,Sales Executive,Yes,19999,10,Married,2,0,0.156,Low,EMP2047,10K+,Sales,6-10y
+32,Sales,Sales Representative,No,11133,5,Married,4,0,0.244,Low,EMP2048,10K+,Sales,4-5y
+31,Research & Development,Manufacturing Director,Yes,3653,6,Divorced,1,1,0.416,Medium,EMP2049,3-6K,R&D,6-10y
+50,Sales,Manager,No,4672,3,Divorced,1,0,0.067,Low,EMP2050,3-6K,Sales,2-3y
+31,Research & Development,Healthcare Representative,Yes,4827,4,Divorced,3,1,0.352,Medium,EMP2051,3-6K,R&D,4-5y
+44,Research & Development,Laboratory Technician,No,5885,4,Single,1,1,0.267,Low,EMP2052,3-6K,R&D,4-5y
+36,Research & Development,Research Scientist,No,3693,2,Married,3,0,0.1,Low,EMP2053,3-6K,R&D,2-3y
+36,Research & Development,Manufacturing Director,Yes,6914,1,Divorced,2,0,0.486,Medium,EMP2054,6-10K,R&D,0-1y
+29,Sales,Sales Representative,Yes,12072,10,Married,3,0,0.401,Medium,EMP2055,10K+,Sales,6-10y
+36,Sales,Sales Executive,No,2637,1,Married,1,0,0.213,Low,EMP2056,<3K,Sales,0-1y
+30,Research & Development,Research Director,Yes,2920,0,Single,3,0,0.644,High,EMP2057,<3K,R&D,0-1y
+38,Research & Development,Healthcare Representative,No,4164,2,Divorced,3,0,0.099,Low,EMP2058,3-6K,R&D,2-3y
+34,Sales,Sales Representative,No,4271,5,Single,1,1,0.5,Medium,EMP2059,3-6K,Sales,4-5y
+28,Human Resources,Human Resources,Yes,16303,8,Single,2,0,0.272,Low,EMP2060,10K+,HR,6-10y
+45,Research & Development,Research Director,Yes,9423,3,Divorced,1,0,0.236,Low,EMP2061,6-10K,R&D,2-3y
+40,Research & Development,Laboratory Technician,No,9130,6,Divorced,1,0,0.14,Low,EMP2062,6-10K,R&D,6-10y
+32,Research & Development,Manufacturing Director,No,4696,10,Divorced,3,0,0.145,Low,EMP2063,3-6K,R&D,6-10y
+38,Research & Development,Research Director,Yes,4640,8,Married,2,0,0.267,Low,EMP2064,3-6K,R&D,6-10y
+36,Human Resources,Manager,No,2444,1,Single,4,0,0.222,Low,EMP2065,<3K,HR,0-1y
+29,Research & Development,Research Scientist,No,8349,9,Married,2,0,0.102,Low,EMP2066,6-10K,R&D,6-10y
+37,Sales,Sales Representative,No,7115,8,Single,3,1,0.306,Medium,EMP2067,6-10K,Sales,6-10y
+31,Research & Development,Laboratory Technician,No,11018,1,Divorced,3,1,0.111,Low,EMP2068,10K+,R&D,0-1y
+28,Research & Development,Laboratory Technician,No,4836,1,Married,3,1,0.282,Low,EMP2069,3-6K,R&D,0-1y
+22,Sales,Sales Representative,No,5024,10,Married,4,0,0.198,Low,EMP2070,3-6K,Sales,6-10y
+33,Research & Development,Research Director,No,5964,5,Single,3,0,0.212,Low,EMP2071,3-6K,R&D,4-5y
+42,Research & Development,Healthcare Representative,No,8871,3,Married,3,0,0.051,Low,EMP2072,6-10K,R&D,2-3y
+30,Sales,Sales Representative,No,2419,8,Divorced,3,1,0.241,Low,EMP2073,<3K,Sales,6-10y
+59,Sales,Sales Executive,Yes,8142,0,Married,2,0,0.207,Low,EMP2074,6-10K,Sales,0-1y
+44,Research & Development,Laboratory Technician,No,5370,0,Single,3,0,0.227,Low,EMP2075,3-6K,R&D,0-1y
+48,Research & Development,Research Scientist,Yes,3034,7,Single,4,0,0.243,Low,EMP2076,3-6K,R&D,6-10y
+44,Research & Development,Laboratory Technician,Yes,1725,5,Married,3,0,0.391,Medium,EMP2077,<3K,R&D,4-5y
+53,Research & Development,Laboratory Technician,Yes,5038,0,Single,3,0,0.547,Medium,EMP2078,3-6K,R&D,0-1y
+29,Research & Development,Healthcare Representative,Yes,12043,0,Divorced,1,0,0.402,Medium,EMP2079,10K+,R&D,0-1y
+18,Research & Development,Laboratory Technician,No,13644,4,Married,2,0,0.202,Low,EMP2080,10K+,R&D,4-5y
+32,Sales,Sales Executive,No,6604,1,Single,1,0,0.21,Low,EMP2081,6-10K,Sales,0-1y
+42,Sales,Sales Representative,No,15980,2,Divorced,1,0,0.154,Low,EMP2082,10K+,Sales,2-3y
+38,Sales,Sales Executive,Yes,5304,8,Married,2,0,0.315,Medium,EMP2083,3-6K,Sales,6-10y
+39,Human Resources,Human Resources,No,9175,6,Single,2,1,0.167,Low,EMP2084,6-10K,HR,6-10y
+48,Sales,Sales Executive,No,4237,5,Married,3,0,0.076,Low,EMP2085,3-6K,Sales,4-5y
+40,Sales,Sales Executive,No,4092,6,Single,4,0,0.139,Low,EMP2086,3-6K,Sales,6-10y
+44,Sales,Sales Representative,No,3741,3,Married,4,0,0.143,Low,EMP2087,3-6K,Sales,2-3y
+28,Research & Development,Healthcare Representative,No,1748,3,Divorced,2,0,0.261,Low,EMP2088,<3K,R&D,2-3y
+27,Research & Development,Manufacturing Director,No,11024,9,Divorced,2,0,0.177,Low,EMP2089,10K+,R&D,6-10y
+51,Research & Development,Manufacturing Director,No,3816,0,Married,3,0,0.104,Low,EMP2090,3-6K,R&D,0-1y
+37,Research & Development,Manufacturing Director,No,3495,5,Married,2,0,0.23,Low,EMP2091,3-6K,R&D,4-5y
+31,Research & Development,Research Scientist,No,2838,0,Single,4,0,0.216,Low,EMP2092,<3K,R&D,0-1y
+31,Research & Development,Research Scientist,No,4854,5,Married,4,0,0.056,Low,EMP2093,3-6K,R&D,4-5y
+31,Research & Development,Manufacturing Director,Yes,14327,0,Single,3,0,0.413,Medium,EMP2094,10K+,R&D,0-1y
+30,Research & Development,Laboratory Technician,No,17181,23,Married,1,0,0.048,Low,EMP2095,10K+,R&D,10y+
+25,Research & Development,Healthcare Representative,No,2178,8,Single,3,0,0.313,Medium,EMP2096,<3K,R&D,6-10y
+23,Sales,Sales Representative,Yes,4469,0,Divorced,4,1,0.737,High,EMP2097,3-6K,Sales,0-1y
+35,Sales,Sales Executive,No,3075,4,Divorced,1,1,0.132,Low,EMP2098,3-6K,Sales,4-5y
+31,Research & Development,Research Scientist,No,9354,19,Married,1,0,0.027,Low,EMP2099,6-10K,R&D,10y+
+46,Research & Development,Research Scientist,Yes,6359,2,Married,3,1,0.299,Low,EMP2100,6-10K,R&D,2-3y
+39,Research & Development,Healthcare Representative,Yes,3827,5,Single,2,0,0.534,Medium,EMP2101,3-6K,R&D,4-5y
+39,Sales,Manager,Yes,5652,22,Married,3,0,0.087,Low,EMP2102,3-6K,Sales,10y+
+30,Sales,Sales Executive,No,4177,6,Single,2,1,0.15,Low,EMP2103,3-6K,Sales,6-10y
+35,Research & Development,Manufacturing Director,Yes,13198,1,Single,4,0,0.311,Medium,EMP2104,10K+,R&D,0-1y
+40,Sales,Sales Executive,No,7338,6,Married,2,0,0.161,Low,EMP2105,6-10K,Sales,6-10y
+43,Research & Development,Manufacturing Director,No,7851,4,Married,2,0,0.12,Low,EMP2106,6-10K,R&D,4-5y
+36,Research & Development,Research Scientist,No,1252,0,Married,1,0,0.221,Low,EMP2107,<3K,R&D,0-1y
+46,Human Resources,Human Resources,No,5235,1,Married,1,1,0.205,Low,EMP2108,3-6K,HR,0-1y
+37,Research & Development,Manufacturing Director,No,17081,0,Single,1,1,0.24,Low,EMP2109,10K+,R&D,0-1y
+44,Research & Development,Research Scientist,Yes,11264,1,Single,4,0,0.308,Medium,EMP2110,10K+,R&D,0-1y
+32,Research & Development,Research Scientist,No,1966,2,Married,2,1,0.183,Low,EMP2111,<3K,R&D,2-3y
+20,Research & Development,Healthcare Representative,Yes,4571,0,Married,1,1,0.643,High,EMP2112,3-6K,R&D,0-1y
+39,Sales,Manager,Yes,2805,4,Single,2,0,0.523,Medium,EMP2113,<3K,Sales,4-5y
+43,Human Resources,Human Resources,No,13920,1,Married,3,0,0.013,Low,EMP2114,10K+,HR,0-1y
+42,Research & Development,Research Scientist,Yes,6212,4,Married,4,0,0.163,Low,EMP2115,6-10K,R&D,4-5y
+40,Research & Development,Research Director,No,3560,5,Married,4,0,0.019,Low,EMP2116,3-6K,R&D,4-5y
+33,Sales,Sales Representative,No,5534,3,Divorced,1,0,0.37,Medium,EMP2117,3-6K,Sales,2-3y
+29,Research & Development,Research Scientist,No,1294,4,Married,4,1,0.077,Low,EMP2118,<3K,R&D,4-5y
+41,Sales,Sales Representative,No,2990,0,Married,2,0,0.383,Medium,EMP2119,<3K,Sales,0-1y
+40,Sales,Sales Executive,No,5541,21,Married,4,0,0.01,Low,EMP2120,3-6K,Sales,10y+
+31,Research & Development,Laboratory Technician,No,8648,1,Single,1,0,0.465,Medium,EMP2121,6-10K,R&D,0-1y
+46,Sales,Sales Representative,No,1867,1,Single,3,0,0.348,Medium,EMP2122,<3K,Sales,0-1y
+29,Research & Development,Manufacturing Director,No,4404,11,Single,4,0,0.068,Low,EMP2123,3-6K,R&D,10y+
+31,Research & Development,Healthcare Representative,Yes,9464,6,Divorced,1,0,0.396,Medium,EMP2124,6-10K,R&D,6-10y
+51,Research & Development,Research Scientist,No,2444,0,Single,4,0,0.2,Low,EMP2125,<3K,R&D,0-1y
+44,Research & Development,Research Director,Yes,6161,0,Married,1,0,0.35,Medium,EMP2126,6-10K,R&D,0-1y
+33,Sales,Sales Representative,Yes,5632,1,Married,4,1,0.58,Medium,EMP2127,3-6K,Sales,0-1y
+39,Sales,Manager,Yes,13945,19,Married,3,0,0.05,Low,EMP2128,10K+,Sales,10y+
+38,Human Resources,Human Resources,No,4785,7,Divorced,4,0,0.075,Low,EMP2129,3-6K,HR,6-10y
+18,Human Resources,Human Resources,No,4942,3,Married,4,0,0.172,Low,EMP2130,3-6K,HR,2-3y
+28,Research & Development,Healthcare Representative,No,8692,0,Single,2,0,0.251,Low,EMP2131,6-10K,R&D,0-1y
+36,Research & Development,Research Director,No,2618,2,Married,2,0,0.087,Low,EMP2132,<3K,R&D,2-3y
+33,Sales,Manager,No,4810,1,Married,3,0,0.12,Low,EMP2133,3-6K,Sales,0-1y
+39,Human Resources,Human Resources,No,4227,14,Married,1,0,0.11,Low,EMP2134,3-6K,HR,10y+
+47,Research & Development,Laboratory Technician,No,5032,0,Married,2,0,0.173,Low,EMP2135,3-6K,R&D,0-1y
+34,Research & Development,Research Director,No,8661,0,Married,1,0,0.15,Low,EMP2136,6-10K,R&D,0-1y
+27,Research & Development,Healthcare Representative,Yes,7367,5,Single,4,0,0.412,Medium,EMP2137,6-10K,R&D,4-5y
+39,Research & Development,Research Scientist,Yes,3598,0,Divorced,1,0,0.453,Medium,EMP2138,3-6K,R&D,0-1y
+34,Sales,Manager,No,5855,2,Married,2,0,0.201,Low,EMP2139,3-6K,Sales,2-3y
+35,Research & Development,Research Director,No,12329,0,Married,2,0,0.071,Low,EMP2140,10K+,R&D,0-1y
+34,Sales,Sales Executive,No,3438,0,Single,2,1,0.316,Medium,EMP2141,3-6K,Sales,0-1y
+57,Sales,Manager,No,5883,2,Single,4,0,0.095,Low,EMP2142,3-6K,Sales,2-3y
+18,Sales,Manager,No,4884,4,Married,4,0,0.169,Low,EMP2143,3-6K,Sales,4-5y
+33,Research & Development,Manufacturing Director,No,5246,6,Married,3,0,0.078,Low,EMP2144,3-6K,R&D,6-10y
+36,Research & Development,Healthcare Representative,Yes,2215,4,Married,4,0,0.298,Low,EMP2145,<3K,R&D,4-5y
+29,Sales,Sales Executive,Yes,11800,0,Married,1,0,0.436,Medium,EMP2146,10K+,Sales,0-1y
+45,Sales,Manager,Yes,3547,2,Single,4,0,0.376,Medium,EMP2147,3-6K,Sales,2-3y
+44,Research & Development,Research Director,No,9550,0,Married,1,0,0.132,Low,EMP2148,6-10K,R&D,0-1y
+36,Sales,Manager,No,3859,0,Divorced,1,0,0.212,Low,EMP2149,3-6K,Sales,0-1y
+34,Research & Development,Healthcare Representative,No,3850,3,Married,1,0,0.261,Low,EMP2150,3-6K,R&D,2-3y
+35,Sales,Sales Executive,No,10585,6,Married,1,0,0.116,Low,EMP2151,10K+,Sales,6-10y
+36,Research & Development,Research Scientist,No,9382,1,Divorced,4,0,0.017,Low,EMP2152,6-10K,R&D,0-1y
+36,Research & Development,Manufacturing Director,No,6092,7,Single,2,0,0.212,Low,EMP2153,6-10K,R&D,6-10y
+35,Research & Development,Research Director,No,8255,6,Married,4,0,0.069,Low,EMP2154,6-10K,R&D,6-10y
+39,Research & Development,Manufacturing Director,No,4634,12,Divorced,2,0,0.159,Low,EMP2155,3-6K,R&D,10y+
+43,Research & Development,Manufacturing Director,No,5406,9,Married,1,0,0.15,Low,EMP2156,3-6K,R&D,6-10y
+25,Research & Development,Laboratory Technician,No,3774,3,Single,2,0,0.425,Medium,EMP2157,3-6K,R&D,2-3y
+27,Research & Development,Healthcare Representative,No,8930,1,Divorced,1,0,0.214,Low,EMP2158,6-10K,R&D,0-1y
+21,Sales,Sales Representative,No,3709,5,Single,2,1,0.527,Medium,EMP2159,3-6K,Sales,4-5y
+44,Research & Development,Laboratory Technician,No,12293,15,Married,3,0,0.057,Low,EMP2160,10K+,R&D,10y+
+39,Sales,Manager,No,4565,10,Single,4,0,0.132,Low,EMP2161,3-6K,Sales,6-10y
+41,Sales,Sales Executive,No,5493,1,Married,3,0,0.156,Low,EMP2162,3-6K,Sales,0-1y
+24,Research & Development,Laboratory Technician,Yes,8244,18,Married,1,0,0.388,Medium,EMP2163,6-10K,R&D,10y+
+53,Research & Development,Laboratory Technician,No,5503,1,Married,3,0,0.127,Low,EMP2164,3-6K,R&D,0-1y
+31,Sales,Sales Representative,No,4610,3,Divorced,3,1,0.375,Medium,EMP2165,3-6K,Sales,2-3y
+38,Sales,Sales Executive,Yes,5342,3,Married,1,1,0.384,Medium,EMP2166,3-6K,Sales,2-3y
+44,Research & Development,Research Director,No,8880,9,Married,4,0,0.01,Low,EMP2167,6-10K,R&D,6-10y
+28,Sales,Sales Representative,Yes,3772,2,Divorced,4,1,0.606,High,EMP2168,3-6K,Sales,2-3y
+32,Research & Development,Research Scientist,No,5067,6,Divorced,3,0,0.17,Low,EMP2169,3-6K,R&D,6-10y
+38,Research & Development,Laboratory Technician,No,5462,2,Single,2,0,0.317,Medium,EMP2170,3-6K,R&D,2-3y
+60,Sales,Sales Representative,Yes,8738,1,Single,2,0,0.546,Medium,EMP2171,6-10K,Sales,0-1y
+39,Research & Development,Laboratory Technician,No,5141,8,Married,2,0,0.123,Low,EMP2172,3-6K,R&D,6-10y
+51,Sales,Manager,No,14684,3,Divorced,1,0,0.049,Low,EMP2173,10K+,Sales,2-3y
+47,Research & Development,Research Scientist,No,4983,8,Married,2,0,0.046,Low,EMP2174,3-6K,R&D,6-10y
+40,Sales,Sales Representative,No,4766,3,Single,1,0,0.449,Medium,EMP2175,3-6K,Sales,2-3y
+28,Research & Development,Laboratory Technician,No,4944,2,Married,1,1,0.307,Medium,EMP2176,3-6K,R&D,2-3y
+46,Research & Development,Laboratory Technician,No,2632,2,Married,3,0,0.18,Low,EMP2177,<3K,R&D,2-3y
+23,Research & Development,Research Scientist,No,3071,23,Married,1,0,0.096,Low,EMP2178,3-6K,R&D,10y+
+51,Research & Development,Laboratory Technician,Yes,4056,10,Divorced,2,0,0.263,Low,EMP2179,3-6K,R&D,6-10y
+38,Sales,Manager,No,10144,9,Divorced,2,0,0.015,Low,EMP2180,10K+,Sales,6-10y
+18,Research & Development,Research Director,No,5333,7,Married,1,0,0.14,Low,EMP2181,3-6K,R&D,6-10y
+33,Research & Development,Research Director,No,4160,0,Married,4,0,0.257,Low,EMP2182,3-6K,R&D,0-1y
+42,Research & Development,Research Scientist,No,10663,5,Married,4,0,0.121,Low,EMP2183,10K+,R&D,4-5y
+34,Research & Development,Healthcare Representative,Yes,12748,3,Married,3,0,0.301,Medium,EMP2184,10K+,R&D,2-3y
+43,Sales,Sales Representative,Yes,10834,4,Married,3,1,0.363,Medium,EMP2185,10K+,Sales,4-5y
+29,Research & Development,Laboratory Technician,No,3397,2,Married,1,1,0.325,Medium,EMP2186,3-6K,R&D,2-3y
+25,Human Resources,Human Resources,No,4136,10,Married,4,0,0.066,Low,EMP2187,3-6K,HR,6-10y
+36,Research & Development,Manufacturing Director,Yes,14728,6,Married,4,0,0.105,Low,EMP2188,10K+,R&D,6-10y
+37,Sales,Sales Representative,No,6201,5,Single,2,1,0.328,Medium,EMP2189,6-10K,Sales,4-5y
+33,Research & Development,Laboratory Technician,No,4688,2,Married,3,0,0.263,Low,EMP2190,3-6K,R&D,2-3y
+48,Research & Development,Research Director,Yes,8063,3,Married,4,0,0.217,Low,EMP2191,6-10K,R&D,2-3y
+29,Sales,Manager,Yes,9452,4,Married,3,1,0.271,Low,EMP2192,6-10K,Sales,4-5y
+39,Human Resources,Manager,No,3966,0,Married,1,0,0.165,Low,EMP2193,3-6K,HR,0-1y
+37,Sales,Manager,No,6128,3,Single,2,0,0.23,Low,EMP2194,6-10K,Sales,2-3y
+22,Research & Development,Research Director,Yes,9041,6,Divorced,1,1,0.411,Medium,EMP2195,6-10K,R&D,6-10y
+25,Research & Development,Research Director,No,2869,8,Divorced,2,0,0.157,Low,EMP2196,<3K,R&D,6-10y
+37,Sales,Sales Executive,No,5468,2,Married,4,0,0.119,Low,EMP2197,3-6K,Sales,2-3y
+54,Research & Development,Research Director,No,2942,2,Married,1,0,0.126,Low,EMP2198,<3K,R&D,2-3y
+42,Sales,Sales Representative,No,3162,19,Married,4,0,0.091,Low,EMP2199,3-6K,Sales,10y+
+21,Research & Development,Healthcare Representative,No,3985,0,Married,2,0,0.225,Low,EMP2200,3-6K,R&D,0-1y
+18,Research & Development,Research Director,No,7061,3,Divorced,2,0,0.179,Low,EMP2201,6-10K,R&D,2-3y
+43,Sales,Sales Executive,Yes,4550,3,Single,3,1,0.384,Medium,EMP2202,3-6K,Sales,2-3y
+36,Sales,Sales Representative,No,3802,5,Single,1,1,0.384,Medium,EMP2203,3-6K,Sales,4-5y
+47,Research & Development,Laboratory Technician,Yes,5587,4,Married,1,0,0.436,Medium,EMP2204,3-6K,R&D,4-5y
+29,Research & Development,Research Scientist,No,2890,4,Single,2,0,0.305,Medium,EMP2205,<3K,R&D,4-5y
+40,Research & Development,Manufacturing Director,Yes,6876,2,Married,1,0,0.32,Medium,EMP2206,6-10K,R&D,2-3y
+44,Research & Development,Research Director,No,10119,7,Divorced,4,0,0.066,Low,EMP2207,10K+,R&D,6-10y
+32,Research & Development,Research Director,Yes,5200,8,Single,3,0,0.46,Medium,EMP2208,3-6K,R&D,6-10y
+33,Research & Development,Research Scientist,No,4858,7,Married,4,0,0.017,Low,EMP2209,3-6K,R&D,6-10y
+37,Sales,Sales Executive,Yes,6670,3,Married,4,1,0.252,Low,EMP2210,6-10K,Sales,2-3y
+41,Sales,Sales Representative,No,1779,4,Divorced,2,0,0.327,Medium,EMP2211,<3K,Sales,4-5y
+36,Research & Development,Research Director,No,7297,1,Married,4,0,0.124,Low,EMP2212,6-10K,R&D,0-1y
+45,Research & Development,Research Director,Yes,19999,4,Single,1,0,0.186,Low,EMP2213,10K+,R&D,4-5y
+32,Research & Development,Research Scientist,No,5077,4,Married,2,0,0.169,Low,EMP2214,3-6K,R&D,4-5y
+25,Research & Development,Laboratory Technician,No,5087,2,Married,3,0,0.226,Low,EMP2215,3-6K,R&D,2-3y
+54,Research & Development,Healthcare Representative,No,8176,16,Married,2,0,0.068,Low,EMP2216,6-10K,R&D,10y+
+31,Research & Development,Research Scientist,No,13425,1,Married,3,0,0.074,Low,EMP2217,10K+,R&D,0-1y
+31,Sales,Sales Executive,No,9285,0,Single,4,1,0.178,Low,EMP2218,6-10K,Sales,0-1y
+36,Research & Development,Laboratory Technician,Yes,1659,15,Married,2,0,0.331,Medium,EMP2219,<3K,R&D,10y+
+37,Research & Development,Manufacturing Director,No,7404,9,Married,2,0,0.085,Low,EMP2220,6-10K,R&D,6-10y
+33,Research & Development,Research Scientist,Yes,19999,0,Single,3,0,0.312,Medium,EMP2221,10K+,R&D,0-1y
+36,Sales,Sales Representative,No,7649,2,Married,4,0,0.184,Low,EMP2222,6-10K,Sales,2-3y
+36,Research & Development,Research Scientist,No,2878,0,Divorced,4,0,0.086,Low,EMP2223,<3K,R&D,0-1y
+38,Research & Development,Healthcare Representative,No,6342,4,Married,4,0,0.106,Low,EMP2224,6-10K,R&D,4-5y
+18,Sales,Manager,No,2685,0,Single,1,1,0.496,Medium,EMP2225,<3K,Sales,0-1y
+53,Research & Development,Manufacturing Director,No,10700,4,Married,1,0,0.01,Low,EMP2226,10K+,R&D,4-5y
+35,Research & Development,Laboratory Technician,No,3210,1,Single,3,0,0.391,Medium,EMP2227,3-6K,R&D,0-1y
+42,Sales,Sales Representative,Yes,5658,13,Married,2,0,0.356,Medium,EMP2228,3-6K,Sales,10y+
+24,Research & Development,Healthcare Representative,Yes,3388,3,Married,3,0,0.475,Medium,EMP2229,3-6K,R&D,2-3y
+32,Research & Development,Research Scientist,No,4021,4,Single,4,0,0.211,Low,EMP2230,3-6K,R&D,4-5y
+30,Research & Development,Research Scientist,No,12300,1,Married,3,0,0.123,Low,EMP2231,10K+,R&D,0-1y
+50,Research & Development,Manufacturing Director,No,5749,3,Divorced,2,0,0.136,Low,EMP2232,3-6K,R&D,2-3y
+31,Sales,Sales Representative,Yes,3993,0,Single,4,1,0.842,High,EMP2233,3-6K,Sales,0-1y
+43,Research & Development,Manufacturing Director,No,2893,1,Divorced,2,0,0.179,Low,EMP2234,<3K,R&D,0-1y
+31,Research & Development,Research Scientist,Yes,1940,4,Married,3,1,0.409,Medium,EMP2235,<3K,R&D,4-5y
+32,Research & Development,Research Scientist,Yes,2729,1,Married,1,0,0.567,Medium,EMP2236,<3K,R&D,0-1y
+34,Research & Development,Healthcare Representative,Yes,5776,0,Single,3,0,0.58,Medium,EMP2237,3-6K,R&D,0-1y
+48,Research & Development,Manufacturing Director,No,9312,0,Single,2,0,0.2,Low,EMP2238,6-10K,R&D,0-1y
+19,Research & Development,Manufacturing Director,No,3991,2,Single,1,0,0.446,Medium,EMP2239,3-6K,R&D,2-3y
+25,Sales,Sales Representative,No,12884,10,Married,1,0,0.183,Low,EMP2240,10K+,Sales,6-10y
+19,Research & Development,Research Scientist,No,3660,6,Divorced,3,0,0.144,Low,EMP2241,3-6K,R&D,6-10y
+27,Research & Development,Laboratory Technician,No,4765,17,Divorced,1,0,0.142,Low,EMP2242,3-6K,R&D,10y+
+29,Research & Development,Research Director,No,2999,6,Single,1,0,0.249,Low,EMP2243,<3K,R&D,6-10y
+22,Research & Development,Laboratory Technician,No,9366,2,Single,1,0,0.409,Medium,EMP2244,6-10K,R&D,2-3y
+30,Research & Development,Manufacturing Director,No,17216,9,Single,1,0,0.034,Low,EMP2245,10K+,R&D,6-10y
+18,Research & Development,Research Scientist,No,2061,7,Divorced,2,0,0.142,Low,EMP2246,<3K,R&D,6-10y
+27,Research & Development,Research Scientist,Yes,4490,3,Single,2,1,0.736,High,EMP2247,3-6K,R&D,2-3y
+47,Sales,Sales Executive,Yes,10890,25,Single,3,0,0.065,Low,EMP2248,10K+,Sales,10y+
+40,Sales,Manager,No,2450,15,Married,3,0,0.14,Low,EMP2249,<3K,Sales,10y+
+38,Research & Development,Manufacturing Director,No,7418,0,Married,3,0,0.133,Low,EMP2250,6-10K,R&D,0-1y
+27,Research & Development,Research Scientist,No,10633,15,Single,4,1,0.082,Low,EMP2251,10K+,R&D,10y+
+23,Research & Development,Healthcare Representative,No,5670,4,Married,1,0,0.144,Low,EMP2252,3-6K,R&D,4-5y
+26,Research & Development,Laboratory Technician,Yes,7351,5,Single,3,1,0.686,High,EMP2253,6-10K,R&D,4-5y
+36,Research & Development,Manufacturing Director,No,14306,7,Single,1,0,0.205,Low,EMP2254,10K+,R&D,6-10y
+44,Sales,Sales Representative,No,15861,0,Single,4,0,0.25,Low,EMP2255,10K+,Sales,0-1y
+45,Sales,Sales Representative,No,5249,3,Married,2,0,0.222,Low,EMP2256,3-6K,Sales,2-3y
+42,Sales,Sales Executive,Yes,4052,0,Divorced,2,0,0.344,Medium,EMP2257,3-6K,Sales,0-1y
+30,Research & Development,Research Director,No,3274,2,Married,1,0,0.172,Low,EMP2258,3-6K,R&D,2-3y
+37,Human Resources,Human Resources,No,9295,0,Married,3,0,0.076,Low,EMP2259,6-10K,HR,0-1y
+34,Research & Development,Healthcare Representative,No,2554,3,Married,2,0,0.211,Low,EMP2260,<3K,R&D,2-3y
+35,Research & Development,Healthcare Representative,No,4727,1,Married,4,0,0.184,Low,EMP2261,3-6K,R&D,0-1y
+55,Research & Development,Research Scientist,No,5747,3,Divorced,1,0,0.098,Low,EMP2262,3-6K,R&D,2-3y
+21,Sales,Sales Executive,No,4118,5,Married,2,0,0.179,Low,EMP2263,3-6K,Sales,4-5y
+34,Research & Development,Research Scientist,No,6335,14,Divorced,4,0,0.12,Low,EMP2264,6-10K,R&D,10y+
+47,Sales,Manager,No,19999,4,Married,4,0,0.01,Low,EMP2265,10K+,Sales,4-5y
+23,Research & Development,Research Director,No,5080,5,Married,4,0,0.132,Low,EMP2266,3-6K,R&D,4-5y
+31,Human Resources,Manager,No,4274,0,Single,3,0,0.28,Low,EMP2267,3-6K,HR,0-1y
+32,Research & Development,Research Scientist,No,9494,4,Married,4,0,0.053,Low,EMP2268,6-10K,R&D,4-5y
+34,Research & Development,Healthcare Representative,No,6196,2,Married,1,0,0.139,Low,EMP2269,6-10K,R&D,2-3y
+22,Human Resources,Human Resources,No,11987,4,Divorced,4,0,0.074,Low,EMP2270,10K+,HR,4-5y
+42,Research & Development,Healthcare Representative,No,5946,1,Divorced,3,0,0.163,Low,EMP2271,3-6K,R&D,0-1y
+42,Research & Development,Manufacturing Director,No,4737,2,Married,2,0,0.199,Low,EMP2272,3-6K,R&D,2-3y
+41,Research & Development,Healthcare Representative,No,2036,10,Divorced,1,0,0.111,Low,EMP2273,<3K,R&D,6-10y
+29,Research & Development,Healthcare Representative,No,2228,4,Divorced,3,0,0.143,Low,EMP2274,<3K,R&D,4-5y
+37,Research & Development,Research Director,No,1979,8,Married,1,0,0.109,Low,EMP2275,<3K,R&D,6-10y
+28,Research & Development,Manufacturing Director,No,6691,3,Single,3,0,0.216,Low,EMP2276,6-10K,R&D,2-3y
+34,Research & Development,Research Scientist,No,2567,0,Single,1,0,0.318,Medium,EMP2277,<3K,R&D,0-1y
+56,Sales,Sales Representative,No,10835,0,Single,2,0,0.223,Low,EMP2278,10K+,Sales,0-1y
+37,Research & Development,Laboratory Technician,No,5522,3,Single,1,1,0.37,Medium,EMP2279,3-6K,R&D,2-3y
+26,Research & Development,Laboratory Technician,No,4749,4,Divorced,2,0,0.245,Low,EMP2280,3-6K,R&D,4-5y
+38,Research & Development,Manufacturing Director,No,3414,1,Single,2,1,0.238,Low,EMP2281,3-6K,R&D,0-1y
+24,Research & Development,Research Director,No,7648,3,Married,1,0,0.184,Low,EMP2282,6-10K,R&D,2-3y
+26,Research & Development,Manufacturing Director,Yes,3489,7,Married,4,0,0.314,Medium,EMP2283,3-6K,R&D,6-10y
+27,Sales,Manager,No,3159,2,Married,4,1,0.133,Low,EMP2284,3-6K,Sales,2-3y
+33,Sales,Sales Executive,No,10442,6,Single,2,0,0.185,Low,EMP2285,10K+,Sales,6-10y
+45,Research & Development,Manufacturing Director,Yes,6601,15,Married,1,0,0.098,Low,EMP2286,6-10K,R&D,10y+
+42,Research & Development,Healthcare Representative,No,4773,8,Married,4,0,0.131,Low,EMP2287,3-6K,R&D,6-10y
+41,Research & Development,Research Scientist,No,7729,2,Married,3,1,0.101,Low,EMP2288,6-10K,R&D,2-3y
+27,Research & Development,Laboratory Technician,Yes,5458,1,Single,3,1,0.823,High,EMP2289,3-6K,R&D,0-1y
+32,Research & Development,Laboratory Technician,No,6705,4,Married,3,0,0.205,Low,EMP2290,6-10K,R&D,4-5y
+39,Sales,Manager,No,3465,9,Single,1,0,0.149,Low,EMP2291,3-6K,Sales,6-10y
+31,Research & Development,Healthcare Representative,No,16961,5,Married,2,0,0.044,Low,EMP2292,10K+,R&D,4-5y
+34,Research & Development,Research Scientist,No,3948,13,Married,1,0,0.059,Low,EMP2293,3-6K,R&D,10y+
+40,Research & Development,Research Scientist,No,12782,14,Single,3,0,0.056,Low,EMP2294,10K+,R&D,10y+
+33,Research & Development,Laboratory Technician,No,4895,3,Divorced,4,0,0.199,Low,EMP2295,3-6K,R&D,2-3y
+39,Research & Development,Research Director,No,8466,7,Single,3,0,0.095,Low,EMP2296,6-10K,R&D,6-10y
+51,Research & Development,Laboratory Technician,Yes,8134,3,Divorced,3,1,0.319,Medium,EMP2297,6-10K,R&D,2-3y
+35,Sales,Manager,No,10206,0,Divorced,3,0,0.017,Low,EMP2298,10K+,Sales,0-1y
+47,Research & Development,Research Scientist,No,3420,28,Married,4,0,0.015,Low,EMP2299,3-6K,R&D,10y+
+42,Research & Development,Research Scientist,No,9814,4,Single,1,0,0.206,Low,EMP2300,6-10K,R&D,4-5y
+23,Research & Development,Research Scientist,No,14996,3,Single,2,1,0.186,Low,EMP2301,10K+,R&D,2-3y
+27,Sales,Manager,No,4711,0,Divorced,2,1,0.174,Low,EMP2302,3-6K,Sales,0-1y
+29,Research & Development,Laboratory Technician,No,5536,1,Married,3,0,0.211,Low,EMP2303,3-6K,R&D,0-1y
+29,Sales,Sales Representative,Yes,4072,1,Single,2,1,0.829,High,EMP2304,3-6K,Sales,0-1y
+36,Sales,Sales Executive,No,4489,6,Married,4,0,0.049,Low,EMP2305,3-6K,Sales,6-10y
+42,Research & Development,Research Scientist,No,13922,10,Single,2,0,0.125,Low,EMP2306,10K+,R&D,6-10y
+48,Sales,Sales Executive,No,3126,0,Married,4,0,0.072,Low,EMP2307,3-6K,Sales,0-1y
+39,Research & Development,Research Director,No,3235,5,Married,4,0,0.073,Low,EMP2308,3-6K,R&D,4-5y
+32,Sales,Sales Representative,No,13173,0,Single,1,0,0.333,Medium,EMP2309,10K+,Sales,0-1y
+18,Research & Development,Manufacturing Director,No,7657,2,Divorced,4,0,0.091,Low,EMP2310,6-10K,R&D,2-3y
+37,Sales,Sales Representative,No,17434,26,Single,4,0,0.102,Low,EMP2311,10K+,Sales,10y+
+37,Research & Development,Research Director,Yes,4239,4,Married,1,0,0.432,Medium,EMP2312,3-6K,R&D,4-5y
+38,Research & Development,Research Scientist,No,5822,3,Married,2,0,0.071,Low,EMP2313,3-6K,R&D,2-3y
+55,Research & Development,Research Scientist,No,3776,10,Divorced,4,0,0.023,Low,EMP2314,3-6K,R&D,6-10y
+48,Sales,Sales Executive,No,5877,6,Married,4,0,0.061,Low,EMP2315,3-6K,Sales,6-10y
+44,Research & Development,Research Scientist,No,2047,1,Divorced,2,0,0.091,Low,EMP2316,<3K,R&D,0-1y
+28,Research & Development,Laboratory Technician,Yes,7916,4,Married,3,0,0.408,Medium,EMP2317,6-10K,R&D,4-5y
+32,Sales,Sales Representative,No,6489,4,Divorced,1,0,0.3,Low,EMP2318,6-10K,Sales,4-5y
+36,Sales,Sales Executive,No,5262,4,Single,3,0,0.199,Low,EMP2319,3-6K,Sales,4-5y
+30,Research & Development,Research Scientist,No,4382,2,Married,3,0,0.174,Low,EMP2320,3-6K,R&D,2-3y
+41,Research & Development,Research Scientist,Yes,3320,5,Single,2,0,0.517,Medium,EMP2321,3-6K,R&D,4-5y
+40,Research & Development,Research Scientist,Yes,8105,2,Divorced,2,0,0.251,Low,EMP2322,6-10K,R&D,2-3y
+27,Sales,Manager,No,2852,12,Divorced,4,0,0.091,Low,EMP2323,<3K,Sales,10y+
+47,Research & Development,Manufacturing Director,No,7197,1,Married,2,0,0.09,Low,EMP2324,6-10K,R&D,0-1y
+37,Sales,Manager,Yes,16999,5,Married,2,0,0.19,Low,EMP2325,10K+,Sales,4-5y
+21,Research & Development,Research Scientist,Yes,12296,5,Married,2,0,0.354,Medium,EMP2326,10K+,R&D,4-5y
+36,Research & Development,Research Director,No,2373,2,Single,2,0,0.231,Low,EMP2327,<3K,R&D,2-3y
+39,Research & Development,Laboratory Technician,Yes,4043,1,Married,2,1,0.44,Medium,EMP2328,3-6K,R&D,0-1y
+45,Research & Development,Manufacturing Director,No,6848,0,Married,3,0,0.146,Low,EMP2329,6-10K,R&D,0-1y
+33,Sales,Manager,No,5225,5,Married,4,0,0.112,Low,EMP2330,3-6K,Sales,4-5y
+44,Research & Development,Manufacturing Director,Yes,2515,2,Single,3,0,0.415,Medium,EMP2331,<3K,R&D,2-3y
+38,Research & Development,Research Director,No,6713,3,Divorced,1,0,0.155,Low,EMP2332,6-10K,R&D,2-3y
+25,Human Resources,Human Resources,Yes,5401,2,Single,2,0,0.666,High,EMP2333,3-6K,HR,2-3y
+24,Human Resources,Human Resources,No,15566,0,Married,3,0,0.1,Low,EMP2334,10K+,HR,0-1y
+47,Sales,Manager,No,4725,3,Single,3,0,0.11,Low,EMP2335,3-6K,Sales,2-3y
+47,Research & Development,Laboratory Technician,No,10325,0,Single,4,0,0.192,Low,EMP2336,10K+,R&D,0-1y
+39,Research & Development,Healthcare Representative,No,2705,2,Single,2,0,0.202,Low,EMP2337,<3K,R&D,2-3y
+50,Sales,Manager,Yes,3085,3,Married,2,0,0.244,Low,EMP2338,3-6K,Sales,2-3y
+46,Research & Development,Research Director,No,8078,11,Married,3,0,0.099,Low,EMP2339,6-10K,R&D,10y+
+43,Research & Development,Manufacturing Director,No,9858,0,Married,1,0,0.113,Low,EMP2340,6-10K,R&D,0-1y
+28,Sales,Manager,No,3208,4,Married,3,0,0.145,Low,EMP2341,3-6K,Sales,4-5y
+52,Research & Development,Laboratory Technician,No,5504,2,Married,4,0,0.132,Low,EMP2342,3-6K,R&D,2-3y
+41,Research & Development,Manufacturing Director,Yes,2540,8,Single,3,0,0.36,Medium,EMP2343,<3K,R&D,6-10y
+33,Human Resources,Human Resources,No,4916,1,Single,2,0,0.243,Low,EMP2344,3-6K,HR,0-1y
+30,Research & Development,Healthcare Representative,No,8606,2,Married,4,1,0.12,Low,EMP2345,6-10K,R&D,2-3y
+39,Research & Development,Healthcare Representative,No,4275,6,Married,3,0,0.034,Low,EMP2346,3-6K,R&D,6-10y
+21,Research & Development,Research Director,No,4736,2,Married,3,0,0.199,Low,EMP2347,3-6K,R&D,2-3y
+43,Research & Development,Healthcare Representative,No,2917,7,Single,4,0,0.089,Low,EMP2348,<3K,R&D,6-10y
+28,Research & Development,Research Scientist,No,3802,0,Divorced,1,0,0.275,Low,EMP2349,3-6K,R&D,0-1y
+40,Sales,Sales Executive,No,14284,1,Single,4,0,0.128,Low,EMP2350,10K+,Sales,0-1y
+32,Sales,Manager,No,5653,0,Married,3,0,0.166,Low,EMP2351,3-6K,Sales,0-1y
+34,Research & Development,Manufacturing Director,No,3129,6,Single,3,1,0.12,Low,EMP2352,3-6K,R&D,6-10y
+30,Research & Development,Laboratory Technician,No,4568,2,Married,1,1,0.296,Low,EMP2353,3-6K,R&D,2-3y
+35,Sales,Manager,No,2256,4,Married,4,0,0.066,Low,EMP2354,<3K,Sales,4-5y
+54,Research & Development,Research Director,No,3109,0,Married,1,0,0.121,Low,EMP2355,3-6K,R&D,0-1y
+49,Research & Development,Manufacturing Director,No,11477,4,Single,4,0,0.01,Low,EMP2356,10K+,R&D,4-5y
+40,Research & Development,Healthcare Representative,No,5022,1,Married,4,1,0.041,Low,EMP2357,3-6K,R&D,0-1y
+36,Sales,Sales Executive,Yes,15365,5,Single,2,0,0.383,Medium,EMP2358,10K+,Sales,4-5y
+44,Research & Development,Laboratory Technician,No,5154,1,Married,2,0,0.2,Low,EMP2359,3-6K,R&D,0-1y
+47,Sales,Sales Executive,No,5325,2,Single,1,0,0.178,Low,EMP2360,3-6K,Sales,2-3y
+29,Research & Development,Healthcare Representative,No,7727,2,Single,2,0,0.207,Low,EMP2361,6-10K,R&D,2-3y
+36,Research & Development,Laboratory Technician,No,1248,27,Married,1,1,0.034,Low,EMP2362,<3K,R&D,10y+
+20,Research & Development,Laboratory Technician,No,6079,9,Single,4,0,0.273,Low,EMP2363,6-10K,R&D,6-10y
+47,Research & Development,Healthcare Representative,No,5287,0,Single,3,0,0.148,Low,EMP2364,3-6K,R&D,0-1y
+55,Research & Development,Healthcare Representative,No,12299,2,Divorced,1,0,0.133,Low,EMP2365,10K+,R&D,2-3y
+37,Research & Development,Healthcare Representative,Yes,9233,10,Divorced,4,0,0.152,Low,EMP2366,6-10K,R&D,6-10y
+18,Research & Development,Healthcare Representative,No,2911,4,Divorced,1,0,0.267,Low,EMP2367,<3K,R&D,4-5y
+42,Research & Development,Research Director,No,10755,6,Married,3,0,0.011,Low,EMP2368,10K+,R&D,6-10y
+28,Research & Development,Healthcare Representative,No,4701,1,Married,1,0,0.205,Low,EMP2369,3-6K,R&D,0-1y
+31,Research & Development,Manufacturing Director,No,3302,0,Married,1,0,0.235,Low,EMP2370,3-6K,R&D,0-1y
+42,Sales,Manager,No,6053,1,Single,1,0,0.209,Low,EMP2371,6-10K,Sales,0-1y
+39,Research & Development,Research Scientist,Yes,4858,15,Married,2,0,0.168,Low,EMP2372,3-6K,R&D,10y+
+32,Sales,Sales Executive,No,12659,4,Single,3,0,0.152,Low,EMP2373,10K+,Sales,4-5y
+31,Human Resources,Manager,Yes,6550,2,Divorced,4,0,0.385,Medium,EMP2374,6-10K,HR,2-3y
+38,Research & Development,Research Scientist,No,6082,4,Married,4,0,0.093,Low,EMP2375,6-10K,R&D,4-5y
+33,Sales,Manager,No,8913,5,Married,3,0,0.141,Low,EMP2376,6-10K,Sales,4-5y
+27,Sales,Sales Representative,No,9907,5,Married,3,0,0.241,Low,EMP2377,6-10K,Sales,4-5y
+34,Research & Development,Research Director,No,8358,2,Single,2,0,0.25,Low,EMP2378,6-10K,R&D,2-3y
+40,Research & Development,Laboratory Technician,No,11857,24,Married,2,0,0.023,Low,EMP2379,10K+,R&D,10y+
+35,Research & Development,Healthcare Representative,No,7591,1,Married,4,0,0.096,Low,EMP2380,6-10K,R&D,0-1y
+24,Research & Development,Manufacturing Director,No,5956,10,Married,3,0,0.098,Low,EMP2381,3-6K,R&D,6-10y
+45,Research & Development,Manufacturing Director,No,10738,2,Married,3,0,0.097,Low,EMP2382,10K+,R&D,2-3y
+18,Human Resources,Human Resources,No,5166,4,Single,1,0,0.402,Medium,EMP2383,3-6K,HR,4-5y
+32,Human Resources,Manager,No,5531,4,Married,2,0,0.144,Low,EMP2384,3-6K,HR,4-5y
+31,Research & Development,Research Scientist,No,14000,0,Married,3,0,0.139,Low,EMP2385,10K+,R&D,0-1y
+38,Sales,Manager,No,13254,1,Single,2,0,0.133,Low,EMP2386,10K+,Sales,0-1y
+42,Research & Development,Manufacturing Director,No,5407,5,Divorced,3,0,0.124,Low,EMP2387,3-6K,R&D,4-5y
+47,Sales,Sales Executive,Yes,4232,8,Married,4,0,0.212,Low,EMP2388,3-6K,Sales,6-10y
+30,Research & Development,Research Director,Yes,12145,4,Married,1,0,0.375,Medium,EMP2389,10K+,R&D,4-5y
+42,Sales,Sales Executive,No,8435,12,Divorced,4,0,0.055,Low,EMP2390,6-10K,Sales,10y+
+38,Sales,Sales Executive,No,6461,2,Married,4,0,0.124,Low,EMP2391,6-10K,Sales,2-3y
+21,Research & Development,Research Director,No,4550,2,Divorced,2,0,0.184,Low,EMP2392,3-6K,R&D,2-3y
+54,Research & Development,Research Director,No,6518,8,Married,4,0,0.056,Low,EMP2393,6-10K,R&D,6-10y
+24,Sales,Manager,No,5367,0,Married,1,0,0.262,Low,EMP2394,3-6K,Sales,0-1y
+40,Research & Development,Manufacturing Director,No,3769,8,Single,2,1,0.103,Low,EMP2395,3-6K,R&D,6-10y
+40,Research & Development,Healthcare Representative,Yes,5831,1,Single,1,0,0.607,High,EMP2396,3-6K,R&D,0-1y
+39,Sales,Sales Executive,No,6285,4,Married,3,0,0.047,Low,EMP2397,6-10K,Sales,4-5y
+32,Research & Development,Healthcare Representative,Yes,4418,0,Single,4,1,0.538,Medium,EMP2398,3-6K,R&D,0-1y
+44,Research & Development,Manufacturing Director,No,8929,1,Single,3,0,0.142,Low,EMP2399,6-10K,R&D,0-1y
+22,Research & Development,Laboratory Technician,Yes,11035,14,Married,3,0,0.281,Low,EMP2400,10K+,R&D,10y+
+36,Research & Development,Manufacturing Director,Yes,9259,5,Married,1,0,0.326,Medium,EMP2401,6-10K,R&D,4-5y
+31,Human Resources,Human Resources,Yes,4666,1,Single,4,1,0.542,Medium,EMP2402,3-6K,HR,0-1y
+30,Research & Development,Research Scientist,Yes,8231,0,Married,1,0,0.456,Medium,EMP2403,6-10K,R&D,0-1y
+40,Research & Development,Research Scientist,Yes,5669,2,Divorced,3,1,0.329,Medium,EMP2404,3-6K,R&D,2-3y
+46,Research & Development,Manufacturing Director,No,2752,1,Married,3,0,0.08,Low,EMP2405,<3K,R&D,0-1y
+33,Human Resources,Human Resources,No,7863,10,Divorced,4,0,0.159,Low,EMP2406,6-10K,HR,6-10y
+44,Research & Development,Laboratory Technician,No,5886,5,Married,4,0,0.104,Low,EMP2407,3-6K,R&D,4-5y
+37,Sales,Manager,No,19999,5,Single,3,0,0.035,Low,EMP2408,10K+,Sales,4-5y
+28,Sales,Sales Representative,No,12106,11,Married,3,0,0.097,Low,EMP2409,10K+,Sales,10y+
+34,Sales,Sales Representative,No,8031,4,Divorced,2,0,0.283,Low,EMP2410,6-10K,Sales,4-5y
+34,Human Resources,Manager,No,6229,25,Married,3,0,0.025,Low,EMP2411,6-10K,HR,10y+
+30,Sales,Sales Representative,Yes,5943,2,Divorced,3,0,0.601,High,EMP2412,3-6K,Sales,2-3y
+40,Sales,Sales Representative,No,3127,4,Divorced,3,0,0.254,Low,EMP2413,3-6K,Sales,4-5y
+39,Research & Development,Manufacturing Director,No,2087,1,Single,3,0,0.205,Low,EMP2414,<3K,R&D,0-1y
+22,Sales,Manager,No,3361,3,Married,2,0,0.241,Low,EMP2415,3-6K,Sales,2-3y
+22,Research & Development,Research Director,Yes,5290,2,Married,1,1,0.623,High,EMP2416,3-6K,R&D,2-3y
+40,Research & Development,Research Scientist,No,1706,0,Single,1,0,0.314,Medium,EMP2417,<3K,R&D,0-1y
+29,Sales,Manager,No,4026,1,Married,2,0,0.287,Low,EMP2418,3-6K,Sales,0-1y
+39,Human Resources,Manager,No,4740,2,Divorced,2,0,0.064,Low,EMP2419,3-6K,HR,2-3y
+44,Sales,Sales Executive,No,4824,3,Married,3,0,0.063,Low,EMP2420,3-6K,Sales,2-3y
+25,Research & Development,Healthcare Representative,No,3774,6,Single,4,0,0.188,Low,EMP2421,3-6K,R&D,6-10y
+24,Research & Development,Manufacturing Director,No,4501,2,Married,3,0,0.267,Low,EMP2422,3-6K,R&D,2-3y
+52,Research & Development,Research Director,No,14018,1,Single,4,0,0.15,Low,EMP2423,10K+,R&D,0-1y
+40,Research & Development,Manufacturing Director,Yes,7817,9,Divorced,3,0,0.243,Low,EMP2424,6-10K,R&D,6-10y
+33,Research & Development,Research Director,Yes,3991,13,Single,4,1,0.273,Low,EMP2425,3-6K,R&D,10y+
+28,Research & Development,Laboratory Technician,No,5231,3,Divorced,4,1,0.166,Low,EMP2426,3-6K,R&D,2-3y
+32,Research & Development,Laboratory Technician,No,5347,3,Married,1,1,0.229,Low,EMP2427,3-6K,R&D,2-3y
+26,Sales,Manager,No,3560,0,Married,3,0,0.164,Low,EMP2428,3-6K,Sales,0-1y
+44,Research & Development,Manufacturing Director,No,3558,1,Married,3,0,0.172,Low,EMP2429,3-6K,R&D,0-1y
+30,Sales,Sales Representative,Yes,9469,1,Single,4,0,0.734,High,EMP2430,6-10K,Sales,0-1y
+46,Research & Development,Laboratory Technician,No,4311,4,Married,3,0,0.13,Low,EMP2431,3-6K,R&D,4-5y
+33,Research & Development,Research Scientist,Yes,2974,0,Divorced,1,1,0.583,Medium,EMP2432,<3K,R&D,0-1y
+27,Research & Development,Research Director,No,5304,2,Divorced,1,0,0.141,Low,EMP2433,3-6K,R&D,2-3y
+33,Research & Development,Research Scientist,No,5795,6,Single,1,0,0.223,Low,EMP2434,3-6K,R&D,6-10y
+18,Human Resources,Manager,Yes,1835,5,Married,1,0,0.585,Medium,EMP2435,<3K,HR,4-5y
+35,Research & Development,Research Scientist,Yes,5311,1,Divorced,1,0,0.456,Medium,EMP2436,3-6K,R&D,0-1y
+35,Research & Development,Research Scientist,No,8755,0,Divorced,4,0,0.08,Low,EMP2437,6-10K,R&D,0-1y
+44,Sales,Sales Executive,Yes,6961,1,Married,2,0,0.288,Low,EMP2438,6-10K,Sales,0-1y
+20,Human Resources,Manager,Yes,18515,3,Single,3,0,0.43,Medium,EMP2439,10K+,HR,2-3y
+47,Research & Development,Research Director,No,10808,3,Divorced,4,0,0.069,Low,EMP2440,10K+,R&D,2-3y
+44,Research & Development,Laboratory Technician,No,12051,0,Married,3,0,0.114,Low,EMP2441,10K+,R&D,0-1y
+48,Research & Development,Research Scientist,No,19999,2,Married,2,0,0.069,Low,EMP2442,10K+,R&D,2-3y
+36,Research & Development,Manufacturing Director,Yes,8241,9,Married,2,0,0.205,Low,EMP2443,6-10K,R&D,6-10y
+46,Research & Development,Research Scientist,No,5941,14,Single,4,0,0.094,Low,EMP2444,3-6K,R&D,10y+
+23,Research & Development,Healthcare Representative,No,9279,14,Divorced,3,0,0.068,Low,EMP2445,6-10K,R&D,10y+
+43,Sales,Sales Executive,Yes,3993,0,Single,4,1,0.428,Medium,EMP2446,3-6K,Sales,0-1y
+30,Research & Development,Laboratory Technician,No,5763,13,Married,1,1,0.126,Low,EMP2447,3-6K,R&D,10y+
+22,Research & Development,Research Scientist,Yes,3803,7,Divorced,1,0,0.495,Medium,EMP2448,3-6K,R&D,6-10y
+26,Research & Development,Manufacturing Director,No,6760,5,Divorced,1,0,0.244,Low,EMP2449,6-10K,R&D,4-5y
+37,Sales,Sales Executive,Yes,3795,3,Divorced,3,1,0.337,Medium,EMP2450,3-6K,Sales,2-3y
+29,Research & Development,Research Director,Yes,3722,1,Divorced,3,0,0.406,Medium,EMP2451,3-6K,R&D,0-1y
+40,Sales,Sales Executive,No,6818,4,Single,2,0,0.205,Low,EMP2452,6-10K,Sales,4-5y
+20,Sales,Sales Executive,No,5035,0,Divorced,2,0,0.227,Low,EMP2453,3-6K,Sales,0-1y
+18,Research & Development,Manufacturing Director,Yes,1881,0,Divorced,3,1,0.636,High,EMP2454,<3K,R&D,0-1y
+49,Research & Development,Manufacturing Director,Yes,2439,12,Married,4,1,0.117,Low,EMP2455,<3K,R&D,10y+
+45,Research & Development,Research Scientist,No,2889,1,Married,4,0,0.15,Low,EMP2456,<3K,R&D,0-1y
+27,Research & Development,Research Scientist,No,3342,11,Single,2,0,0.17,Low,EMP2457,3-6K,R&D,10y+
+36,Sales,Sales Executive,No,6822,0,Married,3,0,0.183,Low,EMP2458,6-10K,Sales,0-1y
+46,Research & Development,Healthcare Representative,Yes,6126,1,Married,1,0,0.309,Medium,EMP2459,6-10K,R&D,0-1y
+40,Sales,Sales Representative,No,9758,1,Married,4,0,0.153,Low,EMP2460,6-10K,Sales,0-1y
+38,Research & Development,Laboratory Technician,Yes,8217,2,Married,1,1,0.584,Medium,EMP2461,6-10K,R&D,2-3y
+46,Research & Development,Research Scientist,Yes,9794,9,Married,2,0,0.177,Low,EMP2462,6-10K,R&D,6-10y
+30,Research & Development,Research Director,No,7590,11,Single,3,0,0.217,Low,EMP2463,6-10K,R&D,10y+
+37,Sales,Sales Executive,No,6095,3,Divorced,4,0,0.084,Low,EMP2464,6-10K,Sales,2-3y
+36,Sales,Manager,No,9943,5,Single,1,0,0.187,Low,EMP2465,6-10K,Sales,4-5y
+34,Research & Development,Research Scientist,No,9006,0,Single,3,1,0.27,Low,EMP2466,6-10K,R&D,0-1y
+33,Research & Development,Laboratory Technician,No,6679,0,Single,1,0,0.367,Medium,EMP2467,6-10K,R&D,0-1y
+37,Sales,Sales Executive,No,10928,8,Divorced,1,0,0.022,Low,EMP2468,10K+,Sales,6-10y
+37,Research & Development,Research Scientist,No,1494,2,Divorced,2,0,0.132,Low,EMP2469,<3K,R&D,2-3y
